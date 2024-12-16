@@ -1,0 +1,16 @@
+It is estimated that there were than 52,000 new cases of thyroid cancer in the United States in 2019, and about 2000 individuals succumbed to the disease. The rate of newly diagnosed thyroid cancer has been rising dramatically (currently, at the rate of 3% increase in incidence each year in the United States), and in countries like South Korea, which has seen a veritable “epidemic” of thyroid cancer, it is the most common cause of newly diagnosed cancer in women. In contrast to the rising rates of newly diagnosed cancer, mortality from this disease is one of the lowest among solid tumors, with a 5-year survival greater than 98%. The major reason for this good outcome is that many of these cancers are found incidentally during neck palpation or by ultrasonography, and consist of small, localized lesions (typically papillary cancers) that have an excellent prognosis. To address this so-called “overdiagnosis” of thyroid cancer, the nomenclature of a subset of papillary cancers has undergone an important change in the past 2 years (see later).
+
+The major subtypes of thyroid carcinoma and their relative frequencies are as follows:
+• Papillary thyroid carcinoma (PTC), including “conventional” PTC and the “encapsulated follicular variant” (80% to 85%% of cases). This category includes the newly described lesion known as “noninvasive follicular thyroid neoplasm with papillary-like nuclear features,” a low-grade neoplasm with such a minimal risk of recurrence that “carcinoma” has been removed from its name.
+• Follicular carcinoma (10% to 15% of cases)
+• Poorly differentiated and anaplastic (undifferentiated) carcinoma (<5% of cases)
+• Medullary carcinoma (5% of cases)
+
+Most thyroid carcinomas are derived from thyroid follicle epithelium (except medullary carcinoma, which is derived from parafollicular C cells), and, of these, the vast majority are well-differentiated lesions. In the past decade, with increasing knowledge of the molecular pathology of follicular neoplasms, the concept of “multistep pathogenesis” from precursor lesions, which is well established in other epithelial cancers, has gained greater acceptance. In particular, the following three precursor lesion relationships have been recognized:
+• Papillary microcarcinoma as a precursor to conventional PTC
+• Noninvasive thryoid neoplasma with papillarylike nuclear features as a precursor to invasive encapsulated follicular variant PTC
+• Nonfunctioning follicular adenoma as a precursor to follicular carcinoma
+
+Further, it is now accepted that most poorly differentiated and anaplastic (undifferentiated) carcinomas arise from well-differentiated PTC or follicular carcinomas, through acquisition of additional mutations. These aggressive neoplasms and medullary thyroid carcinomas are the major causes of mortality from thyroid cancer.
+
+We begin with a discussion of the molecular pathogenesis of thyroid neoplasms.
