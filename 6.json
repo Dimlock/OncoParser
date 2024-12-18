@@ -4,407 +4,1550 @@
         {
             "text": "Follicular carcinoma accounts for 5% to 15% of primary thyroid cancers; it is more frequent in areas with dietary iodine deficiency, where it constitutes 25% to 40% of thyroid cancers. It is more common in women (3 :1) and presents more often in older patients than does papillary carcinoma; the peak incidence is between 40 and 60 years of age.",
             "stats": {
-                "follicular": 0.019230769230769232,
-                "carcinoma": 0.038461538461538464,
-                "accounts": 0.019230769230769232,
-                "for": 0.019230769230769232,
-                "to": 0.038461538461538464,
-                "of": 0.057692307692307696,
-                "primary": 0.019230769230769232,
-                "thyroid": 0.038461538461538464,
-                "cancers": 0.038461538461538464,
-                "it": 0.057692307692307696,
-                "is": 0.057692307692307696,
-                "more": 0.057692307692307696,
-                "frequent": 0.019230769230769232,
-                "in": 0.057692307692307696,
-                "areas": 0.019230769230769232,
-                "with": 0.019230769230769232,
-                "dietary": 0.019230769230769232,
-                "iodine": 0.019230769230769232,
-                "deficiency": 0.019230769230769232,
-                "where": 0.019230769230769232,
-                "constitutes": 0.019230769230769232,
-                "common": 0.019230769230769232,
-                "women": 0.019230769230769232,
-                "and": 0.038461538461538464,
-                "presents": 0.019230769230769232,
-                "often": 0.019230769230769232,
-                "older": 0.019230769230769232,
-                "patients": 0.019230769230769232,
-                "than": 0.019230769230769232,
-                "does": 0.019230769230769232,
-                "papillary": 0.019230769230769232,
-                "the": 0.019230769230769232,
-                "peak": 0.019230769230769232,
-                "incidence": 0.019230769230769232,
-                "between": 0.019230769230769232,
-                "years": 0.019230769230769232,
-                "age": 0.019230769230769232
+                "follicular": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "carcinoma": {
+                    "tf": 0.038461538461538464,
+                    "idf": 0
+                },
+                "accounts": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "for": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.038461538461538464,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.057692307692307696,
+                    "idf": 0
+                },
+                "primary": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.038461538461538464,
+                    "idf": 0
+                },
+                "cancers": {
+                    "tf": 0.038461538461538464,
+                    "idf": 0
+                },
+                "it": {
+                    "tf": 0.057692307692307696,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.057692307692307696,
+                    "idf": 0
+                },
+                "more": {
+                    "tf": 0.057692307692307696,
+                    "idf": 0
+                },
+                "frequent": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.057692307692307696,
+                    "idf": 0
+                },
+                "areas": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "dietary": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "iodine": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "deficiency": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "where": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "constitutes": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "common": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "women": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.038461538461538464,
+                    "idf": 0
+                },
+                "presents": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "often": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "older": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "patients": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "than": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "does": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "papillary": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "peak": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "incidence": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "between": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "years": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                },
+                "age": {
+                    "tf": 0.019230769230769232,
+                    "idf": 0
+                }
             }
         },
         {
             "text": " MORPHOLOGY Follicular carcinomas are single nodules that may be well circumscribed or widely infiltrative (Fig. 24.20A). Sharply demarcated lesions may be exceedingly difficult to distinguish from follicular adenomas by gross examination. Larger lesions may penetrate the capsule and infiltrate into the adjacent neck. They are gray to tan to pink on cut section and may be translucent due to the presence of large, colloid-filled follicles. Degenerative changes, such as central fibrosis and foci of calcification, may be present.",
             "stats": {
-                "morphology": 0.012658227848101266,
-                "follicular": 0.02531645569620253,
-                "carcinomas": 0.012658227848101266,
-                "are": 0.02531645569620253,
-                "single": 0.012658227848101266,
-                "nodules": 0.012658227848101266,
-                "that": 0.012658227848101266,
-                "may": 0.06329113924050633,
-                "be": 0.05063291139240506,
-                "well": 0.012658227848101266,
-                "circumscribed": 0.012658227848101266,
-                "or": 0.012658227848101266,
-                "widely": 0.012658227848101266,
-                "infiltrative": 0.012658227848101266,
-                "fig": 0.012658227848101266,
-                "a": 0.012658227848101266,
-                "sharply": 0.012658227848101266,
-                "demarcated": 0.012658227848101266,
-                "lesions": 0.02531645569620253,
-                "exceedingly": 0.012658227848101266,
-                "difficult": 0.012658227848101266,
-                "to": 0.05063291139240506,
-                "distinguish": 0.012658227848101266,
-                "from": 0.012658227848101266,
-                "adenomas": 0.012658227848101266,
-                "by": 0.012658227848101266,
-                "gross": 0.012658227848101266,
-                "examination": 0.012658227848101266,
-                "larger": 0.012658227848101266,
-                "penetrate": 0.012658227848101266,
-                "the": 0.0379746835443038,
-                "capsule": 0.012658227848101266,
-                "and": 0.0379746835443038,
-                "infiltrate": 0.012658227848101266,
-                "into": 0.012658227848101266,
-                "adjacent": 0.012658227848101266,
-                "neck": 0.012658227848101266,
-                "they": 0.012658227848101266,
-                "gray": 0.012658227848101266,
-                "tan": 0.012658227848101266,
-                "pink": 0.012658227848101266,
-                "on": 0.012658227848101266,
-                "cut": 0.012658227848101266,
-                "section": 0.012658227848101266,
-                "translucent": 0.012658227848101266,
-                "due": 0.012658227848101266,
-                "presence": 0.012658227848101266,
-                "of": 0.02531645569620253,
-                "large": 0.012658227848101266,
-                "colloid": 0.012658227848101266,
-                "filled": 0.012658227848101266,
-                "follicles": 0.012658227848101266,
-                "degenerative": 0.012658227848101266,
-                "changes": 0.012658227848101266,
-                "such": 0.012658227848101266,
-                "as": 0.012658227848101266,
-                "central": 0.012658227848101266,
-                "fibrosis": 0.012658227848101266,
-                "foci": 0.012658227848101266,
-                "calcification": 0.012658227848101266,
-                "present": 0.012658227848101266
+                "morphology": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.02531645569620253,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.02531645569620253,
+                    "idf": 0
+                },
+                "single": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "nodules": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "that": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "may": {
+                    "tf": 0.06329113924050633,
+                    "idf": 0
+                },
+                "be": {
+                    "tf": 0.05063291139240506,
+                    "idf": 0
+                },
+                "well": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "circumscribed": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "or": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "widely": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "infiltrative": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "fig": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "a": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "sharply": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "demarcated": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "lesions": {
+                    "tf": 0.02531645569620253,
+                    "idf": 0
+                },
+                "exceedingly": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "difficult": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.05063291139240506,
+                    "idf": 0
+                },
+                "distinguish": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "from": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "adenomas": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "by": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "gross": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "examination": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "larger": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "penetrate": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.0379746835443038,
+                    "idf": 0
+                },
+                "capsule": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.0379746835443038,
+                    "idf": 0
+                },
+                "infiltrate": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "into": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "adjacent": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "neck": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "they": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "gray": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "tan": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "pink": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "on": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "cut": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "section": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "translucent": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "due": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "presence": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.02531645569620253,
+                    "idf": 0
+                },
+                "large": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "colloid": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "filled": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "follicles": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "degenerative": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "changes": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "such": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "as": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "central": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "fibrosis": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "foci": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "calcification": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                },
+                "present": {
+                    "tf": 0.012658227848101266,
+                    "idf": 0
+                }
             }
         },
         {
             "text": "Microscopically, most follicular carcinomas are composed of fairly uniform cells forming small follicles containing colloid, quite reminiscent of normal thyroid (Fig. 24.20B). In other cases, follicular differentiation may be less apparent, and there may be nests or sheets of cells without colloid. Occasional tumors are dominated by cells with abundant granular, eosinophilic cytoplasm (Hürthle cell or oncocytic variant of follicular carcinoma). Whatever the pattern, the nuclei lack the features typical of papillary carcinoma, and psammoma bodies are not present. There is no reliable cytologic difference between follicular adenomas and minimally invasive follicular carcinomas. Making this distinction requires extensive histologic sampling of the tumor capsule to exclude capsular and/or vascular invasion (Fig. 24.21). The criterion for vascular invasion is applicable only to capsular vessels and vascular spaces beyond the capsule; the presence of tumor plugs within intra-tumoral blood vessels has little prognostic significance. Unlike in papillary cancers, lymphatic spread is uncommon in follicular cancers. By contrast, the diagnosis of carcinoma is obvious in widely invasive follicular carcinomas, which infiltrate the thyroid parenchyma and extrathyroidal soft tissues. Histologically, these cancers tend to have a greater proportion of solid or trabecular growth pattern, less evidence of follicular differentiation, and increased mitotic activity.",
             "stats": {
-                "microscopically": 0.005,
-                "most": 0.005,
-                "follicular": 0.04,
-                "carcinomas": 0.015,
-                "are": 0.015,
-                "composed": 0.005,
-                "of": 0.05,
-                "fairly": 0.005,
-                "uniform": 0.005,
-                "cells": 0.015,
-                "forming": 0.005,
-                "small": 0.005,
-                "follicles": 0.005,
-                "containing": 0.005,
-                "colloid": 0.01,
-                "quite": 0.005,
-                "reminiscent": 0.005,
-                "normal": 0.005,
-                "thyroid": 0.01,
-                "fig": 0.01,
-                "b": 0.005,
-                "in": 0.02,
-                "other": 0.005,
-                "cases": 0.005,
-                "differentiation": 0.01,
-                "may": 0.01,
-                "be": 0.01,
-                "less": 0.01,
-                "apparent": 0.005,
-                "and": 0.035,
-                "there": 0.01,
-                "nests": 0.005,
-                "or": 0.02,
-                "sheets": 0.005,
-                "without": 0.005,
-                "occasional": 0.005,
-                "tumors": 0.005,
-                "dominated": 0.005,
-                "by": 0.01,
-                "with": 0.005,
-                "abundant": 0.005,
-                "granular": 0.005,
-                "eosinophilic": 0.005,
-                "cytoplasm": 0.005,
-                "hürthle": 0.005,
-                "cell": 0.005,
-                "oncocytic": 0.005,
-                "variant": 0.005,
-                "carcinoma": 0.015,
-                "whatever": 0.005,
-                "the": 0.045,
-                "pattern": 0.01,
-                "nuclei": 0.005,
-                "lack": 0.005,
-                "features": 0.005,
-                "typical": 0.005,
-                "papillary": 0.01,
-                "psammoma": 0.005,
-                "bodies": 0.005,
-                "not": 0.005,
-                "present": 0.005,
-                "is": 0.02,
-                "no": 0.005,
-                "reliable": 0.005,
-                "cytologic": 0.005,
-                "difference": 0.005,
-                "between": 0.005,
-                "adenomas": 0.005,
-                "minimally": 0.005,
-                "invasive": 0.01,
-                "making": 0.005,
-                "this": 0.005,
-                "distinction": 0.005,
-                "requires": 0.005,
-                "extensive": 0.005,
-                "histologic": 0.005,
-                "sampling": 0.005,
-                "tumor": 0.01,
-                "capsule": 0.01,
-                "to": 0.015,
-                "exclude": 0.005,
-                "capsular": 0.01,
-                "vascular": 0.015,
-                "invasion": 0.01,
-                "criterion": 0.005,
-                "for": 0.005,
-                "applicable": 0.005,
-                "only": 0.005,
-                "vessels": 0.01,
-                "spaces": 0.005,
-                "beyond": 0.005,
-                "presence": 0.005,
-                "plugs": 0.005,
-                "within": 0.005,
-                "intra": 0.005,
-                "tumoral": 0.005,
-                "blood": 0.005,
-                "has": 0.005,
-                "little": 0.005,
-                "prognostic": 0.005,
-                "significance": 0.005,
-                "unlike": 0.005,
-                "cancers": 0.015,
-                "lymphatic": 0.005,
-                "spread": 0.005,
-                "uncommon": 0.005,
-                "contrast": 0.005,
-                "diagnosis": 0.005,
-                "obvious": 0.005,
-                "widely": 0.005,
-                "which": 0.005,
-                "infiltrate": 0.005,
-                "parenchyma": 0.005,
-                "extrathyroidal": 0.005,
-                "soft": 0.005,
-                "tissues": 0.005,
-                "histologically": 0.005,
-                "these": 0.005,
-                "tend": 0.005,
-                "have": 0.005,
-                "a": 0.005,
-                "greater": 0.005,
-                "proportion": 0.005,
-                "solid": 0.005,
-                "trabecular": 0.005,
-                "growth": 0.005,
-                "evidence": 0.005,
-                "increased": 0.005,
-                "mitotic": 0.005,
-                "activity": 0.005
+                "microscopically": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "most": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.04,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "composed": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.05,
+                    "idf": 0
+                },
+                "fairly": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "uniform": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cells": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "forming": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "small": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "follicles": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "containing": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "colloid": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "quite": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "reminiscent": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "normal": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "fig": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "b": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.02,
+                    "idf": 0
+                },
+                "other": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cases": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "differentiation": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "may": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "be": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "less": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "apparent": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.035,
+                    "idf": 0
+                },
+                "there": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "nests": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "or": {
+                    "tf": 0.02,
+                    "idf": 0
+                },
+                "sheets": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "without": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "occasional": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "tumors": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "dominated": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "by": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "abundant": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "granular": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "eosinophilic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cytoplasm": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "hürthle": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cell": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "oncocytic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "variant": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "carcinoma": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "whatever": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.045,
+                    "idf": 0
+                },
+                "pattern": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "nuclei": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "lack": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "features": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "typical": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "papillary": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "psammoma": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "bodies": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "not": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "present": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.02,
+                    "idf": 0
+                },
+                "no": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "reliable": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cytologic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "difference": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "between": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "adenomas": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "minimally": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "invasive": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "making": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "this": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "distinction": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "requires": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "extensive": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "histologic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "sampling": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "tumor": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "capsule": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "exclude": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "capsular": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "vascular": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "invasion": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "criterion": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "for": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "applicable": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "only": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "vessels": {
+                    "tf": 0.01,
+                    "idf": 0
+                },
+                "spaces": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "beyond": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "presence": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "plugs": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "within": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "intra": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "tumoral": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "blood": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "has": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "little": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "prognostic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "significance": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "unlike": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "cancers": {
+                    "tf": 0.015,
+                    "idf": 0
+                },
+                "lymphatic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "spread": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "uncommon": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "contrast": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "diagnosis": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "obvious": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "widely": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "which": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "infiltrate": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "parenchyma": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "extrathyroidal": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "soft": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "tissues": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "histologically": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "these": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "tend": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "a": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "greater": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "proportion": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "solid": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "trabecular": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "growth": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "evidence": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "increased": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "mitotic": {
+                    "tf": 0.005,
+                    "idf": 0
+                },
+                "activity": {
+                    "tf": 0.005,
+                    "idf": 0
+                }
             }
         },
         {
             "text": "Clinical Features\nFollicular carcinomas present as slowly enlarging painless nodules. Most frequently they are cold nodules on scintigrams, although rare, better-differentiated lesions may be hyperfunctional, take up radioactive iodine, and appear warm on scintigraphy. Because follicular carcinomas have little propensity for invading lymphatics, regional lymph nodes are typically not involved, while vascular (hematogenous) dissemination is common, with metastases to bone, lungs, liver, and elsewhere.",
             "stats": {
-                "clinical": 0.015384615384615385,
-                "features": 0.015384615384615385,
-                "follicular": 0.03076923076923077,
-                "carcinomas": 0.03076923076923077,
-                "present": 0.015384615384615385,
-                "as": 0.015384615384615385,
-                "slowly": 0.015384615384615385,
-                "enlarging": 0.015384615384615385,
-                "painless": 0.015384615384615385,
-                "nodules": 0.03076923076923077,
-                "most": 0.015384615384615385,
-                "frequently": 0.015384615384615385,
-                "they": 0.015384615384615385,
-                "are": 0.03076923076923077,
-                "cold": 0.015384615384615385,
-                "on": 0.03076923076923077,
-                "scintigrams": 0.015384615384615385,
-                "although": 0.015384615384615385,
-                "rare": 0.015384615384615385,
-                "better": 0.015384615384615385,
-                "differentiated": 0.015384615384615385,
-                "lesions": 0.015384615384615385,
-                "may": 0.015384615384615385,
-                "be": 0.015384615384615385,
-                "hyperfunctional": 0.015384615384615385,
-                "take": 0.015384615384615385,
-                "up": 0.015384615384615385,
-                "radioactive": 0.015384615384615385,
-                "iodine": 0.015384615384615385,
-                "and": 0.03076923076923077,
-                "appear": 0.015384615384615385,
-                "warm": 0.015384615384615385,
-                "scintigraphy": 0.015384615384615385,
-                "because": 0.015384615384615385,
-                "have": 0.015384615384615385,
-                "little": 0.015384615384615385,
-                "propensity": 0.015384615384615385,
-                "for": 0.015384615384615385,
-                "invading": 0.015384615384615385,
-                "lymphatics": 0.015384615384615385,
-                "regional": 0.015384615384615385,
-                "lymph": 0.015384615384615385,
-                "nodes": 0.015384615384615385,
-                "typically": 0.015384615384615385,
-                "not": 0.015384615384615385,
-                "involved": 0.015384615384615385,
-                "while": 0.015384615384615385,
-                "vascular": 0.015384615384615385,
-                "hematogenous": 0.015384615384615385,
-                "dissemination": 0.015384615384615385,
-                "is": 0.015384615384615385,
-                "common": 0.015384615384615385,
-                "with": 0.015384615384615385,
-                "metastases": 0.015384615384615385,
-                "to": 0.015384615384615385,
-                "bone": 0.015384615384615385,
-                "lungs": 0.015384615384615385,
-                "liver": 0.015384615384615385,
-                "elsewhere": 0.015384615384615385
+                "clinical": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "features": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "present": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "as": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "slowly": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "enlarging": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "painless": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "nodules": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "most": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "frequently": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "they": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "cold": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "on": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "scintigrams": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "although": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "rare": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "better": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "differentiated": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "lesions": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "may": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "be": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "hyperfunctional": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "take": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "up": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "radioactive": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "iodine": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.03076923076923077,
+                    "idf": 0
+                },
+                "appear": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "warm": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "scintigraphy": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "because": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "little": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "propensity": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "for": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "invading": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "lymphatics": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "regional": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "lymph": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "nodes": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "typically": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "not": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "involved": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "while": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "vascular": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "hematogenous": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "dissemination": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "common": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "metastases": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "bone": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "lungs": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "liver": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                },
+                "elsewhere": {
+                    "tf": 0.015384615384615385,
+                    "idf": 0
+                }
             }
         },
         {
             "text": "The prognosis depends largely on the extent of invasion and stage at presentation. Widely invasive follicular carcinoma often presents with systemic metastases, and as many as one-half of affected patients succumb to their disease within 10 years. This is in sharp contrast to minimally invasive follicular carcinomas, which have a 10-year survival rate of greater than 90%. Most follicular carcinomas are treated with total thyroidectomy followed by the administration of radioactive iodine, which can be used to identify metastases and to ablate such lesions. In addition, because any residual follicular carcinoma may respond to TSH stimulation, patients are usually treated with thyroid hormone after surgery to suppress endogenous TSH levels. Serum thyroglobulin levels are used for monitoring tumor recurrence, because this thyroid protein should be barely detectable in a patient who is free of disease.",
             "stats": {
-                "the": 0.022388059701492536,
-                "prognosis": 0.007462686567164179,
-                "depends": 0.007462686567164179,
-                "largely": 0.007462686567164179,
-                "on": 0.007462686567164179,
-                "extent": 0.007462686567164179,
-                "of": 0.03731343283582089,
-                "invasion": 0.007462686567164179,
-                "and": 0.022388059701492536,
-                "stage": 0.007462686567164179,
-                "at": 0.007462686567164179,
-                "presentation": 0.007462686567164179,
-                "widely": 0.007462686567164179,
-                "invasive": 0.014925373134328358,
-                "follicular": 0.029850746268656716,
-                "carcinoma": 0.014925373134328358,
-                "often": 0.007462686567164179,
-                "presents": 0.007462686567164179,
-                "with": 0.022388059701492536,
-                "systemic": 0.007462686567164179,
-                "metastases": 0.014925373134328358,
-                "as": 0.014925373134328358,
-                "many": 0.007462686567164179,
-                "one": 0.007462686567164179,
-                "half": 0.007462686567164179,
-                "affected": 0.007462686567164179,
-                "patients": 0.014925373134328358,
-                "succumb": 0.007462686567164179,
-                "to": 0.04477611940298507,
-                "their": 0.007462686567164179,
-                "disease": 0.014925373134328358,
-                "within": 0.007462686567164179,
-                "years": 0.007462686567164179,
-                "this": 0.014925373134328358,
-                "is": 0.014925373134328358,
-                "in": 0.022388059701492536,
-                "sharp": 0.007462686567164179,
-                "contrast": 0.007462686567164179,
-                "minimally": 0.007462686567164179,
-                "carcinomas": 0.014925373134328358,
-                "which": 0.014925373134328358,
-                "have": 0.007462686567164179,
-                "a": 0.014925373134328358,
-                "year": 0.007462686567164179,
-                "survival": 0.007462686567164179,
-                "rate": 0.007462686567164179,
-                "greater": 0.007462686567164179,
-                "than": 0.007462686567164179,
-                "most": 0.007462686567164179,
-                "are": 0.022388059701492536,
-                "treated": 0.014925373134328358,
-                "total": 0.007462686567164179,
-                "thyroidectomy": 0.007462686567164179,
-                "followed": 0.007462686567164179,
-                "by": 0.007462686567164179,
-                "administration": 0.007462686567164179,
-                "radioactive": 0.007462686567164179,
-                "iodine": 0.007462686567164179,
-                "can": 0.007462686567164179,
-                "be": 0.014925373134328358,
-                "used": 0.014925373134328358,
-                "identify": 0.007462686567164179,
-                "ablate": 0.007462686567164179,
-                "such": 0.007462686567164179,
-                "lesions": 0.007462686567164179,
-                "addition": 0.007462686567164179,
-                "because": 0.014925373134328358,
-                "any": 0.007462686567164179,
-                "residual": 0.007462686567164179,
-                "may": 0.007462686567164179,
-                "respond": 0.007462686567164179,
-                "tsh": 0.014925373134328358,
-                "stimulation": 0.007462686567164179,
-                "usually": 0.007462686567164179,
-                "thyroid": 0.014925373134328358,
-                "hormone": 0.007462686567164179,
-                "after": 0.007462686567164179,
-                "surgery": 0.007462686567164179,
-                "suppress": 0.007462686567164179,
-                "endogenous": 0.007462686567164179,
-                "levels": 0.014925373134328358,
-                "serum": 0.007462686567164179,
-                "thyroglobulin": 0.007462686567164179,
-                "for": 0.007462686567164179,
-                "monitoring": 0.007462686567164179,
-                "tumor": 0.007462686567164179,
-                "recurrence": 0.007462686567164179,
-                "protein": 0.007462686567164179,
-                "should": 0.007462686567164179,
-                "barely": 0.007462686567164179,
-                "detectable": 0.007462686567164179,
-                "patient": 0.007462686567164179,
-                "who": 0.007462686567164179,
-                "free": 0.007462686567164179
+                "the": {
+                    "tf": 0.022388059701492536,
+                    "idf": 0
+                },
+                "prognosis": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "depends": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "largely": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "on": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "extent": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.03731343283582089,
+                    "idf": 0
+                },
+                "invasion": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.022388059701492536,
+                    "idf": 0
+                },
+                "stage": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "at": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "presentation": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "widely": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "invasive": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.029850746268656716,
+                    "idf": 0
+                },
+                "carcinoma": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "often": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "presents": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.022388059701492536,
+                    "idf": 0
+                },
+                "systemic": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "metastases": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "as": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "many": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "one": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "half": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "affected": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "patients": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "succumb": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.04477611940298507,
+                    "idf": 0
+                },
+                "their": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "disease": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "within": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "years": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "this": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.022388059701492536,
+                    "idf": 0
+                },
+                "sharp": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "contrast": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "minimally": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "which": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "a": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "year": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "survival": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "rate": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "greater": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "than": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "most": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.022388059701492536,
+                    "idf": 0
+                },
+                "treated": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "total": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "thyroidectomy": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "followed": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "by": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "administration": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "radioactive": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "iodine": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "can": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "be": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "used": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "identify": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "ablate": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "such": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "lesions": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "addition": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "because": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "any": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "residual": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "may": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "respond": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "tsh": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "stimulation": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "usually": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "hormone": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "after": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "surgery": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "suppress": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "endogenous": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "levels": {
+                    "tf": 0.014925373134328358,
+                    "idf": 0
+                },
+                "serum": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "thyroglobulin": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "for": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "monitoring": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "tumor": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "recurrence": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "protein": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "should": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "barely": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "detectable": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "patient": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "who": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                },
+                "free": {
+                    "tf": 0.007462686567164179,
+                    "idf": 0
+                }
             }
         }
     ]

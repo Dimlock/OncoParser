@@ -4,441 +4,1716 @@
         {
             "text": "Driver Mutations. Distinct sets of driver mutations in cancer genes are found in the four major histologic variants of thyroid cancer. Among follicular neoplasms, there are both unique and shared genetic alterations between the histologic subtypes (Fig. 24.18), most of which involve components of the receptor tyrosine kinase (RTK) pathway, which you will recall is frequently mutated in many different cancers (Chapter 7). As is also true with other epithelial neoplasms, precursor lesions (listed earlier) share genetic alterations with the corresponding variant of carcinoma, albeit at a lower frequency.\n• Conventional papillary thyroid carcinomas. Conventional PTCs have two defining genetic abnormalities: translocations that result in gene fusions of RET or NTRK, and point mutations in BRAF (see Fig. 24.18).\n• The RET gene is located on chromosome 10q11, and encodes an RTK that is normally not expressed in thyroid follicular cells. As with many other RTKs implicated in cancer, PTC rearrangements involving RET create fusion genes that encode constitutively active forms of RET tyrosine kinase. There are more than 15 fusion partners of RET, and two—designated PTC1 and PTC2—are most commonly observed in sporadic papillary cancers. Similarly, paracentric inversions or translocations of NTRK1, another gene encoding a receptor tyrosine kinase on chromosome 1q21, are present in ~5% of PTCs. These rearrangements also produce constitutively active NTRK1 fusion proteins.\n• Between 50% and 80% of conventional PTCs harbor gain-of-function mutations in the BRAF gene, most commonly a valine-to-glutamate change in codon 600 (BRAFV600E). BRAF encodes a serine/threonine kinase that lies downstream of receptor tyrosine kinases in growth factor signaling pathways. In a subtype of conventional PTCs, known as “tall cell variant” (see later), BRAFV600E mutations are virtually a diagnostic sine qua non. The presence of BRAF mutations in conventional PTCs is associated with reduced expression of thyroid differentiation markers (such as thyroglobulin and thyroid peroxidase) and may be associated with a higher risk of extrathyroidal extension and recurrence. As discussed elsewhere, the BRAFV600E mutation is found in many other cancers including melanoma and hairy cell leukemia (Chapter 7).\n• Follicular neoplasms. In contrast to papillary carcinomas, follicular neoplasms are often associated with gain-offunction mutations in RAS. Neoplasms with RAS mutations retain expression of thyroid differentiation factors (e.g., thyroglobulin, thyroid peroxidase), which may contribute to their follicular growth pattern. Overall, approximately 20% to 40% of follicular adenomas and 30% to 50% of follicular carcinomas harbor RAS mutations (see Fig. 24.18). Similarly, approximately one-half of invasive encapsulated follicular variants of PTC and their putative precursor, noninvasive follicular thyroid neoplasm with papillary-like nuclear features, demonstrate RAS point mutations.",
             "stats": {
-                "driver": 0.004796163069544364,
-                "mutations": 0.023980815347721823,
-                "distinct": 0.002398081534772182,
-                "sets": 0.002398081534772182,
-                "of": 0.05275779376498801,
-                "in": 0.0407673860911271,
-                "cancer": 0.007194244604316547,
-                "genes": 0.004796163069544364,
-                "are": 0.016786570743405275,
-                "found": 0.004796163069544364,
-                "the": 0.019184652278177457,
-                "four": 0.002398081534772182,
-                "major": 0.002398081534772182,
-                "histologic": 0.004796163069544364,
-                "variants": 0.004796163069544364,
-                "thyroid": 0.019184652278177457,
-                "among": 0.002398081534772182,
-                "follicular": 0.02158273381294964,
-                "neoplasms": 0.011990407673860911,
-                "there": 0.004796163069544364,
-                "both": 0.002398081534772182,
-                "unique": 0.002398081534772182,
-                "and": 0.02877697841726619,
-                "shared": 0.002398081534772182,
-                "genetic": 0.007194244604316547,
-                "alterations": 0.004796163069544364,
-                "between": 0.004796163069544364,
-                "subtypes": 0.002398081534772182,
-                "fig": 0.007194244604316547,
-                "most": 0.007194244604316547,
-                "which": 0.007194244604316547,
-                "involve": 0.002398081534772182,
-                "components": 0.002398081534772182,
-                "receptor": 0.007194244604316547,
-                "tyrosine": 0.009592326139088728,
-                "kinase": 0.009592326139088728,
-                "rtk": 0.004796163069544364,
-                "pathway": 0.002398081534772182,
-                "you": 0.002398081534772182,
-                "will": 0.002398081534772182,
-                "recall": 0.002398081534772182,
-                "is": 0.014388489208633094,
-                "frequently": 0.002398081534772182,
-                "mutated": 0.002398081534772182,
-                "many": 0.007194244604316547,
-                "different": 0.002398081534772182,
-                "cancers": 0.007194244604316547,
-                "chapter": 0.004796163069544364,
-                "as": 0.011990407673860911,
-                "also": 0.004796163069544364,
-                "true": 0.002398081534772182,
-                "with": 0.019184652278177457,
-                "other": 0.007194244604316547,
-                "epithelial": 0.002398081534772182,
-                "precursor": 0.004796163069544364,
-                "lesions": 0.002398081534772182,
-                "listed": 0.002398081534772182,
-                "earlier": 0.002398081534772182,
-                "share": 0.002398081534772182,
-                "corresponding": 0.002398081534772182,
-                "variant": 0.004796163069544364,
-                "carcinoma": 0.002398081534772182,
-                "albeit": 0.002398081534772182,
-                "at": 0.002398081534772182,
-                "a": 0.016786570743405275,
-                "lower": 0.002398081534772182,
-                "frequency": 0.002398081534772182,
-                "conventional": 0.011990407673860911,
-                "papillary": 0.009592326139088728,
-                "carcinomas": 0.007194244604316547,
-                "ptcs": 0.011990407673860911,
-                "have": 0.002398081534772182,
-                "two": 0.004796163069544364,
-                "defining": 0.002398081534772182,
-                "abnormalities": 0.002398081534772182,
-                "translocations": 0.004796163069544364,
-                "that": 0.009592326139088728,
-                "result": 0.002398081534772182,
-                "gene": 0.009592326139088728,
-                "fusions": 0.002398081534772182,
-                "ret": 0.011990407673860911,
-                "or": 0.004796163069544364,
-                "ntrk": 0.007194244604316547,
-                "point": 0.004796163069544364,
-                "braf": 0.009592326139088728,
-                "see": 0.007194244604316547,
-                "located": 0.002398081534772182,
-                "on": 0.004796163069544364,
-                "chromosome": 0.004796163069544364,
-                "q": 0.004796163069544364,
-                "encodes": 0.004796163069544364,
-                "an": 0.002398081534772182,
-                "normally": 0.002398081534772182,
-                "not": 0.002398081534772182,
-                "expressed": 0.002398081534772182,
-                "cells": 0.002398081534772182,
-                "rtks": 0.002398081534772182,
-                "implicated": 0.002398081534772182,
-                "ptc": 0.009592326139088728,
-                "rearrangements": 0.004796163069544364,
-                "involving": 0.002398081534772182,
-                "create": 0.002398081534772182,
-                "fusion": 0.007194244604316547,
-                "encode": 0.002398081534772182,
-                "constitutively": 0.004796163069544364,
-                "active": 0.004796163069544364,
-                "forms": 0.002398081534772182,
-                "more": 0.002398081534772182,
-                "than": 0.002398081534772182,
-                "partners": 0.002398081534772182,
-                "designated": 0.002398081534772182,
-                "commonly": 0.004796163069544364,
-                "observed": 0.002398081534772182,
-                "sporadic": 0.002398081534772182,
-                "similarly": 0.004796163069544364,
-                "paracentric": 0.002398081534772182,
-                "inversions": 0.002398081534772182,
-                "another": 0.002398081534772182,
-                "encoding": 0.002398081534772182,
-                "present": 0.002398081534772182,
-                "these": 0.002398081534772182,
-                "produce": 0.002398081534772182,
-                "proteins": 0.002398081534772182,
-                "harbor": 0.004796163069544364,
-                "gain": 0.004796163069544364,
-                "function": 0.002398081534772182,
-                "valine": 0.002398081534772182,
-                "to": 0.011990407673860911,
-                "glutamate": 0.002398081534772182,
-                "change": 0.002398081534772182,
-                "codon": 0.002398081534772182,
-                "brafve": 0.007194244604316547,
-                "serine": 0.002398081534772182,
-                "threonine": 0.002398081534772182,
-                "lies": 0.002398081534772182,
-                "downstream": 0.002398081534772182,
-                "kinases": 0.002398081534772182,
-                "growth": 0.004796163069544364,
-                "factor": 0.002398081534772182,
-                "signaling": 0.002398081534772182,
-                "pathways": 0.002398081534772182,
-                "subtype": 0.002398081534772182,
-                "known": 0.002398081534772182,
-                "tall": 0.002398081534772182,
-                "cell": 0.004796163069544364,
-                "later": 0.002398081534772182,
-                "virtually": 0.002398081534772182,
-                "diagnostic": 0.002398081534772182,
-                "sine": 0.002398081534772182,
-                "qua": 0.002398081534772182,
-                "non": 0.002398081534772182,
-                "presence": 0.002398081534772182,
-                "associated": 0.007194244604316547,
-                "reduced": 0.002398081534772182,
-                "expression": 0.004796163069544364,
-                "differentiation": 0.004796163069544364,
-                "markers": 0.002398081534772182,
-                "such": 0.002398081534772182,
-                "thyroglobulin": 0.004796163069544364,
-                "peroxidase": 0.004796163069544364,
-                "may": 0.004796163069544364,
-                "be": 0.002398081534772182,
-                "higher": 0.002398081534772182,
-                "risk": 0.002398081534772182,
-                "extrathyroidal": 0.002398081534772182,
-                "extension": 0.002398081534772182,
-                "recurrence": 0.002398081534772182,
-                "discussed": 0.002398081534772182,
-                "elsewhere": 0.002398081534772182,
-                "mutation": 0.002398081534772182,
-                "including": 0.002398081534772182,
-                "melanoma": 0.002398081534772182,
-                "hairy": 0.002398081534772182,
-                "leukemia": 0.002398081534772182,
-                "contrast": 0.002398081534772182,
-                "often": 0.002398081534772182,
-                "offunction": 0.002398081534772182,
-                "ras": 0.009592326139088728,
-                "retain": 0.002398081534772182,
-                "factors": 0.002398081534772182,
-                "e": 0.002398081534772182,
-                "g": 0.002398081534772182,
-                "contribute": 0.002398081534772182,
-                "their": 0.004796163069544364,
-                "pattern": 0.002398081534772182,
-                "overall": 0.002398081534772182,
-                "approximately": 0.004796163069544364,
-                "adenomas": 0.002398081534772182,
-                "one": 0.002398081534772182,
-                "half": 0.002398081534772182,
-                "invasive": 0.002398081534772182,
-                "encapsulated": 0.002398081534772182,
-                "putative": 0.002398081534772182,
-                "noninvasive": 0.002398081534772182,
-                "neoplasm": 0.002398081534772182,
-                "like": 0.002398081534772182,
-                "nuclear": 0.002398081534772182,
-                "features": 0.002398081534772182,
-                "demonstrate": 0.002398081534772182
+                "driver": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "mutations": {
+                    "tf": 0.023980815347721823,
+                    "idf": 0
+                },
+                "distinct": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "sets": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.05275779376498801,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.0407673860911271,
+                    "idf": 0
+                },
+                "cancer": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "genes": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.016786570743405275,
+                    "idf": 0
+                },
+                "found": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.019184652278177457,
+                    "idf": 0
+                },
+                "four": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "major": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "histologic": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "variants": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.019184652278177457,
+                    "idf": 0
+                },
+                "among": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.02158273381294964,
+                    "idf": 0
+                },
+                "neoplasms": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "there": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "both": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "unique": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.02877697841726619,
+                    "idf": 0
+                },
+                "shared": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "genetic": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "alterations": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "between": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "subtypes": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "fig": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "most": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "which": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "involve": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "components": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "receptor": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "tyrosine": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "kinase": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "rtk": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "pathway": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "you": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "will": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "recall": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.014388489208633094,
+                    "idf": 0
+                },
+                "frequently": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "mutated": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "many": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "different": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "cancers": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "chapter": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "as": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "also": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "true": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.019184652278177457,
+                    "idf": 0
+                },
+                "other": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "epithelial": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "precursor": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "lesions": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "listed": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "earlier": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "share": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "corresponding": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "variant": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "carcinoma": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "albeit": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "at": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "a": {
+                    "tf": 0.016786570743405275,
+                    "idf": 0
+                },
+                "lower": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "frequency": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "conventional": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "papillary": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "ptcs": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "two": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "defining": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "abnormalities": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "translocations": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "that": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "result": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "gene": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "fusions": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "ret": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "or": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "ntrk": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "point": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "braf": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "see": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "located": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "on": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "chromosome": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "q": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "encodes": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "an": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "normally": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "not": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "expressed": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "cells": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "rtks": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "implicated": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "ptc": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "rearrangements": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "involving": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "create": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "fusion": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "encode": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "constitutively": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "active": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "forms": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "more": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "than": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "partners": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "designated": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "commonly": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "observed": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "sporadic": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "similarly": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "paracentric": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "inversions": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "another": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "encoding": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "present": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "these": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "produce": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "proteins": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "harbor": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "gain": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "function": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "valine": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.011990407673860911,
+                    "idf": 0
+                },
+                "glutamate": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "change": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "codon": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "brafve": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "serine": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "threonine": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "lies": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "downstream": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "kinases": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "growth": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "factor": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "signaling": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "pathways": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "subtype": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "known": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "tall": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "cell": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "later": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "virtually": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "diagnostic": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "sine": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "qua": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "non": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "presence": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "associated": {
+                    "tf": 0.007194244604316547,
+                    "idf": 0
+                },
+                "reduced": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "expression": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "differentiation": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "markers": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "such": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "thyroglobulin": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "peroxidase": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "may": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "be": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "higher": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "risk": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "extrathyroidal": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "extension": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "recurrence": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "discussed": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "elsewhere": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "mutation": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "including": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "melanoma": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "hairy": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "leukemia": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "contrast": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "often": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "offunction": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "ras": {
+                    "tf": 0.009592326139088728,
+                    "idf": 0
+                },
+                "retain": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "factors": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "e": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "g": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "contribute": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "their": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "pattern": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "overall": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "approximately": {
+                    "tf": 0.004796163069544364,
+                    "idf": 0
+                },
+                "adenomas": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "one": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "half": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "invasive": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "encapsulated": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "putative": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "noninvasive": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "neoplasm": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "like": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "nuclear": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "features": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                },
+                "demonstrate": {
+                    "tf": 0.002398081534772182,
+                    "idf": 0
+                }
             }
         },
         {
             "text": "A unique (2;3)(q13;p25) translocation has been described in 20% to 50% of follicular carcinomas and ~10% of follicular adenomas. This translocation creates a fusion gene composed of portions of PAX8, a paired homeobox gene that is important in thyroid development, and the peroxisome proliferator–activated receptor gene (PPARG), which encodes a nuclear hormone receptor implicated in terminal differentiation of thyrocytes. Some noninvasive follicular thyroid neoplasms with papillarylike nuclear features and invasive encapsulated follicular variant of PTC (up to one-third in some series) also harbor PAX8-PPARG fusion genes, which are almost never seen in poorly differentiated or anaplastic carcinomas. Finally, up to 10% of follicular carcinomas exhibit gain-of-function mutations of PIK3CA (the gene that encodes phosphoinositide 3-kinase [PI3K]) or loss-of-function mutations of PTEN, a tumor suppressor gene and negative regulator of this pathway (see Fig. 24.18).\n• Poorly differentiated and anaplastic (undifferentiated) carcinomas. These highly aggressive and lethal tumors can arise de novo, or, much more commonly, by “de-differentiation” of a papillary or follicular thyroid carcinoma. In addition to driver mutations that are also seen in well-differentiated thyoid cancers, three recurrent genetic “hits”—point mutations of TP53, beta-catenin (CTNNB1), and TERT (which encodes the catalytic component of the enzyme telomerase)—are essentially restricted to poorly differentiated and anaplastic carcinomas and likely have central roles in their genesis and aggressive behavior.\n• Medullary thyroid carcinomas. Familial medullary thyroid carcinomas occur in multiple endocrine neoplasia, type 2 (MEN-2, see later) and are associated with germline RET mutations that lead to constitutive activation of the receptor. RET mutations are also seen in approximately one-half of nonfamilial (sporadic) medullary thyroid cancers. Chromosomal rearrangements involving RET, such as the RET/PTC translocations reported in papillary cancers, are not seen in medullary carcinomas.",
             "stats": {
-                "a": 0.020761245674740483,
-                "unique": 0.0034602076124567475,
-                "q": 0.0034602076124567475,
-                "p": 0.0034602076124567475,
-                "translocation": 0.006920415224913495,
-                "has": 0.0034602076124567475,
-                "been": 0.0034602076124567475,
-                "described": 0.0034602076124567475,
-                "in": 0.04152249134948097,
-                "to": 0.020761245674740483,
-                "of": 0.058823529411764705,
-                "follicular": 0.020761245674740483,
-                "carcinomas": 0.02768166089965398,
-                "and": 0.03806228373702422,
-                "adenomas": 0.0034602076124567475,
-                "this": 0.006920415224913495,
-                "creates": 0.0034602076124567475,
-                "fusion": 0.006920415224913495,
-                "gene": 0.01730103806228374,
-                "composed": 0.0034602076124567475,
-                "portions": 0.0034602076124567475,
-                "pax": 0.006920415224913495,
-                "paired": 0.0034602076124567475,
-                "homeobox": 0.0034602076124567475,
-                "that": 0.01384083044982699,
-                "is": 0.0034602076124567475,
-                "important": 0.0034602076124567475,
-                "thyroid": 0.020761245674740483,
-                "development": 0.0034602076124567475,
-                "the": 0.020761245674740483,
-                "peroxisome": 0.0034602076124567475,
-                "proliferator": 0.0034602076124567475,
-                "activated": 0.0034602076124567475,
-                "receptor": 0.010380622837370242,
-                "pparg": 0.006920415224913495,
-                "which": 0.010380622837370242,
-                "encodes": 0.010380622837370242,
-                "nuclear": 0.006920415224913495,
-                "hormone": 0.0034602076124567475,
-                "implicated": 0.0034602076124567475,
-                "terminal": 0.0034602076124567475,
-                "differentiation": 0.006920415224913495,
-                "thyrocytes": 0.0034602076124567475,
-                "some": 0.006920415224913495,
-                "noninvasive": 0.0034602076124567475,
-                "neoplasms": 0.0034602076124567475,
-                "with": 0.006920415224913495,
-                "papillarylike": 0.0034602076124567475,
-                "features": 0.0034602076124567475,
-                "invasive": 0.0034602076124567475,
-                "encapsulated": 0.0034602076124567475,
-                "variant": 0.0034602076124567475,
-                "ptc": 0.006920415224913495,
-                "up": 0.006920415224913495,
-                "one": 0.006920415224913495,
-                "third": 0.0034602076124567475,
-                "series": 0.0034602076124567475,
-                "also": 0.010380622837370242,
-                "harbor": 0.0034602076124567475,
-                "genes": 0.0034602076124567475,
-                "are": 0.020761245674740483,
-                "almost": 0.0034602076124567475,
-                "never": 0.0034602076124567475,
-                "seen": 0.01384083044982699,
-                "poorly": 0.010380622837370242,
-                "differentiated": 0.01384083044982699,
-                "or": 0.01384083044982699,
-                "anaplastic": 0.010380622837370242,
-                "finally": 0.0034602076124567475,
-                "exhibit": 0.0034602076124567475,
-                "gain": 0.0034602076124567475,
-                "function": 0.006920415224913495,
-                "mutations": 0.020761245674740483,
-                "pikca": 0.0034602076124567475,
-                "phosphoinositide": 0.0034602076124567475,
-                "kinase": 0.0034602076124567475,
-                "pik": 0.0034602076124567475,
-                "loss": 0.0034602076124567475,
-                "pten": 0.0034602076124567475,
-                "tumor": 0.0034602076124567475,
-                "suppressor": 0.0034602076124567475,
-                "negative": 0.0034602076124567475,
-                "regulator": 0.0034602076124567475,
-                "pathway": 0.0034602076124567475,
-                "see": 0.006920415224913495,
-                "fig": 0.0034602076124567475,
-                "undifferentiated": 0.0034602076124567475,
-                "these": 0.0034602076124567475,
-                "highly": 0.0034602076124567475,
-                "aggressive": 0.006920415224913495,
-                "lethal": 0.0034602076124567475,
-                "tumors": 0.0034602076124567475,
-                "can": 0.0034602076124567475,
-                "arise": 0.0034602076124567475,
-                "de": 0.006920415224913495,
-                "novo": 0.0034602076124567475,
-                "much": 0.0034602076124567475,
-                "more": 0.0034602076124567475,
-                "commonly": 0.0034602076124567475,
-                "by": 0.0034602076124567475,
-                "papillary": 0.006920415224913495,
-                "carcinoma": 0.0034602076124567475,
-                "addition": 0.0034602076124567475,
-                "driver": 0.0034602076124567475,
-                "well": 0.0034602076124567475,
-                "thyoid": 0.0034602076124567475,
-                "cancers": 0.010380622837370242,
-                "three": 0.0034602076124567475,
-                "recurrent": 0.0034602076124567475,
-                "genetic": 0.0034602076124567475,
-                "hits": 0.0034602076124567475,
-                "point": 0.0034602076124567475,
-                "tp": 0.0034602076124567475,
-                "beta": 0.0034602076124567475,
-                "catenin": 0.0034602076124567475,
-                "ctnnb": 0.0034602076124567475,
-                "tert": 0.0034602076124567475,
-                "catalytic": 0.0034602076124567475,
-                "component": 0.0034602076124567475,
-                "enzyme": 0.0034602076124567475,
-                "telomerase": 0.0034602076124567475,
-                "essentially": 0.0034602076124567475,
-                "restricted": 0.0034602076124567475,
-                "likely": 0.0034602076124567475,
-                "have": 0.0034602076124567475,
-                "central": 0.0034602076124567475,
-                "roles": 0.0034602076124567475,
-                "their": 0.0034602076124567475,
-                "genesis": 0.0034602076124567475,
-                "behavior": 0.0034602076124567475,
-                "medullary": 0.01384083044982699,
-                "familial": 0.0034602076124567475,
-                "occur": 0.0034602076124567475,
-                "multiple": 0.0034602076124567475,
-                "endocrine": 0.0034602076124567475,
-                "neoplasia": 0.0034602076124567475,
-                "type": 0.0034602076124567475,
-                "men": 0.0034602076124567475,
-                "later": 0.0034602076124567475,
-                "associated": 0.0034602076124567475,
-                "germline": 0.0034602076124567475,
-                "ret": 0.01384083044982699,
-                "lead": 0.0034602076124567475,
-                "constitutive": 0.0034602076124567475,
-                "activation": 0.0034602076124567475,
-                "approximately": 0.0034602076124567475,
-                "half": 0.0034602076124567475,
-                "nonfamilial": 0.0034602076124567475,
-                "sporadic": 0.0034602076124567475,
-                "chromosomal": 0.0034602076124567475,
-                "rearrangements": 0.0034602076124567475,
-                "involving": 0.0034602076124567475,
-                "such": 0.0034602076124567475,
-                "as": 0.0034602076124567475,
-                "translocations": 0.0034602076124567475,
-                "reported": 0.0034602076124567475,
-                "not": 0.0034602076124567475
+                "a": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "unique": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "q": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "p": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "translocation": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "has": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "been": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "described": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.04152249134948097,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.058823529411764705,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "carcinomas": {
+                    "tf": 0.02768166089965398,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.03806228373702422,
+                    "idf": 0
+                },
+                "adenomas": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "this": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "creates": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "fusion": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "gene": {
+                    "tf": 0.01730103806228374,
+                    "idf": 0
+                },
+                "composed": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "portions": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "pax": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "paired": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "homeobox": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "that": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "important": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "development": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "peroxisome": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "proliferator": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "activated": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "receptor": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "pparg": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "which": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "encodes": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "nuclear": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "hormone": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "implicated": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "terminal": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "differentiation": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "thyrocytes": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "some": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "noninvasive": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "neoplasms": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "papillarylike": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "features": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "invasive": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "encapsulated": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "variant": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "ptc": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "up": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "one": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "third": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "series": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "also": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "harbor": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "genes": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "are": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "almost": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "never": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "seen": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "poorly": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "differentiated": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "or": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "anaplastic": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "finally": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "exhibit": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "gain": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "function": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "mutations": {
+                    "tf": 0.020761245674740483,
+                    "idf": 0
+                },
+                "pikca": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "phosphoinositide": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "kinase": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "pik": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "loss": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "pten": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "tumor": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "suppressor": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "negative": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "regulator": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "pathway": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "see": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "fig": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "undifferentiated": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "these": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "highly": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "aggressive": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "lethal": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "tumors": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "can": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "arise": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "de": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "novo": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "much": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "more": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "commonly": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "by": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "papillary": {
+                    "tf": 0.006920415224913495,
+                    "idf": 0
+                },
+                "carcinoma": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "addition": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "driver": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "well": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "thyoid": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "cancers": {
+                    "tf": 0.010380622837370242,
+                    "idf": 0
+                },
+                "three": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "recurrent": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "genetic": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "hits": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "point": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "tp": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "beta": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "catenin": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "ctnnb": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "tert": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "catalytic": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "component": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "enzyme": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "telomerase": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "essentially": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "restricted": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "likely": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "central": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "roles": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "their": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "genesis": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "behavior": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "medullary": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "familial": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "occur": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "multiple": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "endocrine": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "neoplasia": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "type": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "men": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "later": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "associated": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "germline": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "ret": {
+                    "tf": 0.01384083044982699,
+                    "idf": 0
+                },
+                "lead": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "constitutive": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "activation": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "approximately": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "half": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "nonfamilial": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "sporadic": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "chromosomal": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "rearrangements": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "involving": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "such": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "as": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "translocations": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "reported": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                },
+                "not": {
+                    "tf": 0.0034602076124567475,
+                    "idf": 0
+                }
             }
         },
         {
             "text": "Environmental Factors. The major risk factor predisposing to thyroid cancer is exposure to ionizing radiation, particularly during the first two decades of life. In keeping with this, there was a marked increase in the incidence of conventional PTCs among children exposed to ionizing radiation after the Chernobyl nuclear disaster in 1986. Of  interest, radiation-induced PTCs have a higher frequency of chromosome rearrangements that produce gene fusions, possibly because of the ability of ionizing radiation to induce double-stranded DNA breaks. Deficiency of dietary iodine (and by extension, goiter) is associated with a higher frequency of follicular lesions.",
             "stats": {
-                "environmental": 0.010309278350515464,
-                "factors": 0.010309278350515464,
-                "the": 0.05154639175257732,
-                "major": 0.010309278350515464,
-                "risk": 0.010309278350515464,
-                "factor": 0.010309278350515464,
-                "predisposing": 0.010309278350515464,
-                "to": 0.041237113402061855,
-                "thyroid": 0.010309278350515464,
-                "cancer": 0.010309278350515464,
-                "is": 0.020618556701030927,
-                "exposure": 0.010309278350515464,
-                "ionizing": 0.030927835051546393,
-                "radiation": 0.041237113402061855,
-                "particularly": 0.010309278350515464,
-                "during": 0.010309278350515464,
-                "first": 0.010309278350515464,
-                "two": 0.010309278350515464,
-                "decades": 0.010309278350515464,
-                "of": 0.08247422680412371,
-                "life": 0.010309278350515464,
-                "in": 0.030927835051546393,
-                "keeping": 0.010309278350515464,
-                "with": 0.020618556701030927,
-                "this": 0.010309278350515464,
-                "there": 0.010309278350515464,
-                "was": 0.010309278350515464,
-                "a": 0.030927835051546393,
-                "marked": 0.010309278350515464,
-                "increase": 0.010309278350515464,
-                "incidence": 0.010309278350515464,
-                "conventional": 0.010309278350515464,
-                "ptcs": 0.020618556701030927,
-                "among": 0.010309278350515464,
-                "children": 0.010309278350515464,
-                "exposed": 0.010309278350515464,
-                "after": 0.010309278350515464,
-                "chernobyl": 0.010309278350515464,
-                "nuclear": 0.010309278350515464,
-                "disaster": 0.010309278350515464,
-                "interest": 0.010309278350515464,
-                "induced": 0.010309278350515464,
-                "have": 0.010309278350515464,
-                "higher": 0.020618556701030927,
-                "frequency": 0.020618556701030927,
-                "chromosome": 0.010309278350515464,
-                "rearrangements": 0.010309278350515464,
-                "that": 0.010309278350515464,
-                "produce": 0.010309278350515464,
-                "gene": 0.010309278350515464,
-                "fusions": 0.010309278350515464,
-                "possibly": 0.010309278350515464,
-                "because": 0.010309278350515464,
-                "ability": 0.010309278350515464,
-                "induce": 0.010309278350515464,
-                "double": 0.010309278350515464,
-                "stranded": 0.010309278350515464,
-                "dna": 0.010309278350515464,
-                "breaks": 0.010309278350515464,
-                "deficiency": 0.010309278350515464,
-                "dietary": 0.010309278350515464,
-                "iodine": 0.010309278350515464,
-                "and": 0.010309278350515464,
-                "by": 0.010309278350515464,
-                "extension": 0.010309278350515464,
-                "goiter": 0.010309278350515464,
-                "associated": 0.010309278350515464,
-                "follicular": 0.010309278350515464,
-                "lesions": 0.010309278350515464
+                "environmental": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "factors": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "the": {
+                    "tf": 0.05154639175257732,
+                    "idf": 0
+                },
+                "major": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "risk": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "factor": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "predisposing": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "to": {
+                    "tf": 0.041237113402061855,
+                    "idf": 0
+                },
+                "thyroid": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "cancer": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "is": {
+                    "tf": 0.020618556701030927,
+                    "idf": 0
+                },
+                "exposure": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "ionizing": {
+                    "tf": 0.030927835051546393,
+                    "idf": 0
+                },
+                "radiation": {
+                    "tf": 0.041237113402061855,
+                    "idf": 0
+                },
+                "particularly": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "during": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "first": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "two": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "decades": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "of": {
+                    "tf": 0.08247422680412371,
+                    "idf": 0
+                },
+                "life": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "in": {
+                    "tf": 0.030927835051546393,
+                    "idf": 0
+                },
+                "keeping": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "with": {
+                    "tf": 0.020618556701030927,
+                    "idf": 0
+                },
+                "this": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "there": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "was": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "a": {
+                    "tf": 0.030927835051546393,
+                    "idf": 0
+                },
+                "marked": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "increase": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "incidence": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "conventional": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "ptcs": {
+                    "tf": 0.020618556701030927,
+                    "idf": 0
+                },
+                "among": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "children": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "exposed": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "after": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "chernobyl": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "nuclear": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "disaster": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "interest": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "induced": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "have": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "higher": {
+                    "tf": 0.020618556701030927,
+                    "idf": 0
+                },
+                "frequency": {
+                    "tf": 0.020618556701030927,
+                    "idf": 0
+                },
+                "chromosome": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "rearrangements": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "that": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "produce": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "gene": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "fusions": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "possibly": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "because": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "ability": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "induce": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "double": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "stranded": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "dna": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "breaks": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "deficiency": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "dietary": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "iodine": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "and": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "by": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "extension": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "goiter": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "associated": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "follicular": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                },
+                "lesions": {
+                    "tf": 0.010309278350515464,
+                    "idf": 0
+                }
             }
         }
     ]

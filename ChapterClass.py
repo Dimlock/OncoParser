@@ -13,6 +13,7 @@ class Chapter:
             result.append(Paragraph(paragraph))
         return result
 
+
     def save(self, save_name):
         with open(f"{save_name}.json", "w", encoding="UTF-8") as f:
             json.dump({"original_text": self.original_text,
@@ -31,4 +32,13 @@ class Paragraph:
 
     def save(self):
         return {"text": self.text,
-                "stats": self.stats}
+                "stats": {k:v.save() for k,v in self.stats.items()}}
+
+class Stat:
+    def __init__(self, tf):
+        self.tf = tf
+        self.idf = 0
+
+    def save(self):
+        return {"tf": self.tf,
+                "idf": self.idf}
