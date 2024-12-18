@@ -38,7 +38,10 @@ class Stat:
     def __init__(self, tf):
         self.tf = tf
         self.idf = 0
+        self.tf_idf = 0
 
     def save(self):
+        self.tf_idf = self.tf * self.idf
         return {"tf": self.tf,
-                "idf": self.idf}
+                "idf": self.idf,
+                "tf-idf": self.tf_idf}
