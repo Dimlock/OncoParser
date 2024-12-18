@@ -1,843 +1,228 @@
 {
     "original_text": "Poorly differentiated and anaplastic (undifferentiated) carcinomas represent aggressive neoplasms of the thyroid follicular epithelium, cumulatively accounting for less than 5% of thyroid tumors, but with a high mortality rate (approaching 100% for anaplastic lesions). Patients with either carcinoma are older than those with other types of thyroid cancer, with a mean age of 65 years. Approximately one-fourth of patients with poorly differentiated or anaplastic thyroid carcinomas have a past history of a well-differentiated follicular neoplasm, and another one-fourth harbor a concurrent well-differentiated neoplasm in the resected specimen.\n\nMORPHOLOGY\nMicroscopically, poorly differentiated carcinomas are composed of cells with minimal follicular differentiation, arranged in insular or trabecular growth patterns; intratumoral necrosis and frequent mitoses are often seen. Anaplastic carcinomas demonstrate variable morphology, including (1) large, pleomorphic giant cells, including occasional osteoclast-like multinucleate giant cells; (2) spindle cells with a sarcomatous appearance; and (3) mixed spindle and giant cells. Foci of papillary or follicular differentiation may be present in some tumors, suggesting an origin from a well- differentiated carcinoma. The neoplastic cells express epithelial markers like cytokeratin, but are usually negative for markers of thyroid differentiation, like thyroglobulin.\n\nClinical Features\nPoorly differentiated and anaplastic carcinomas usually present as rapidly enlarging bulky neck masses. In most cases, the disease has spread beyond the thyroid into adjacent neck structures or has metastasized to the lungs at the time of presentation. Symptoms related to compression and invasion of adjacent structures, such as dyspnea, dysphagia, hoarseness, and cough, are common. Anaplastic carcinomas of the thyroid are one of the most aggressive cancers known; in most cases death occurs in less than 1 year. Poorly dif- ferentiated carcinomas fare somewhat better with radical surgery, external beam radiotherapy, and radioactive iodine. More recently, immunotherapy using immune checkpoint inhibitors has been used in these neoplasms in an attempt to improve their dire prognosis.",
-    "stats": [
-        [
-            [
-                "of",
-                0.06818181818181818
-            ],
-            [
-                "with",
-                0.056818181818181816
-            ],
-            [
-                "a",
-                0.056818181818181816
-            ],
-            [
-                "differentiated",
-                0.045454545454545456
-            ],
-            [
-                "thyroid",
-                0.045454545454545456
-            ],
-            [
-                "anaplastic",
-                0.03409090909090909
-            ],
-            [
-                "poorly",
-                0.022727272727272728
-            ],
-            [
-                "and",
-                0.022727272727272728
-            ],
-            [
-                "carcinomas",
-                0.022727272727272728
-            ],
-            [
-                "the",
-                0.022727272727272728
-            ],
-            [
-                "follicular",
-                0.022727272727272728
-            ],
-            [
-                "for",
-                0.022727272727272728
-            ],
-            [
-                "than",
-                0.022727272727272728
-            ],
-            [
-                "patients",
-                0.022727272727272728
-            ],
-            [
-                "one",
-                0.022727272727272728
-            ],
-            [
-                "fourth",
-                0.022727272727272728
-            ],
-            [
-                "well",
-                0.022727272727272728
-            ],
-            [
-                "neoplasm",
-                0.022727272727272728
-            ],
-            [
-                "undifferentiated",
-                0.011363636363636364
-            ],
-            [
-                "represent",
-                0.011363636363636364
-            ],
-            [
-                "aggressive",
-                0.011363636363636364
-            ],
-            [
-                "neoplasms",
-                0.011363636363636364
-            ],
-            [
-                "epithelium",
-                0.011363636363636364
-            ],
-            [
-                "cumulatively",
-                0.011363636363636364
-            ],
-            [
-                "accounting",
-                0.011363636363636364
-            ],
-            [
-                "less",
-                0.011363636363636364
-            ],
-            [
-                "tumors",
-                0.011363636363636364
-            ],
-            [
-                "but",
-                0.011363636363636364
-            ],
-            [
-                "high",
-                0.011363636363636364
-            ],
-            [
-                "mortality",
-                0.011363636363636364
-            ],
-            [
-                "rate",
-                0.011363636363636364
-            ],
-            [
-                "approaching",
-                0.011363636363636364
-            ],
-            [
-                "lesions",
-                0.011363636363636364
-            ],
-            [
-                "either",
-                0.011363636363636364
-            ],
-            [
-                "carcinoma",
-                0.011363636363636364
-            ],
-            [
-                "are",
-                0.011363636363636364
-            ],
-            [
-                "older",
-                0.011363636363636364
-            ],
-            [
-                "those",
-                0.011363636363636364
-            ],
-            [
-                "other",
-                0.011363636363636364
-            ],
-            [
-                "types",
-                0.011363636363636364
-            ],
-            [
-                "cancer",
-                0.011363636363636364
-            ],
-            [
-                "mean",
-                0.011363636363636364
-            ],
-            [
-                "age",
-                0.011363636363636364
-            ],
-            [
-                "years",
-                0.011363636363636364
-            ],
-            [
-                "approximately",
-                0.011363636363636364
-            ],
-            [
-                "or",
-                0.011363636363636364
-            ],
-            [
-                "have",
-                0.011363636363636364
-            ],
-            [
-                "past",
-                0.011363636363636364
-            ],
-            [
-                "history",
-                0.011363636363636364
-            ],
-            [
-                "another",
-                0.011363636363636364
-            ],
-            [
-                "harbor",
-                0.011363636363636364
-            ],
-            [
-                "concurrent",
-                0.011363636363636364
-            ],
-            [
-                "in",
-                0.011363636363636364
-            ],
-            [
-                "resected",
-                0.011363636363636364
-            ],
-            [
-                "specimen",
-                0.011363636363636364
-            ]
-        ],
-        [
-            [
-                "cells",
-                0.0625
-            ],
-            [
-                "are",
-                0.03125
-            ],
-            [
-                "of",
-                0.03125
-            ],
-            [
-                "differentiation",
-                0.03125
-            ],
-            [
-                "and",
-                0.03125
-            ],
-            [
-                "giant",
-                0.03125
-            ],
-            [
-                "like",
-                0.03125
-            ],
-            [
-                "morphology",
-                0.020833333333333332
-            ],
-            [
-                "differentiated",
-                0.020833333333333332
-            ],
-            [
-                "carcinomas",
-                0.020833333333333332
-            ],
-            [
-                "with",
-                0.020833333333333332
-            ],
-            [
-                "follicular",
-                0.020833333333333332
-            ],
-            [
-                "in",
-                0.020833333333333332
-            ],
-            [
-                "or",
-                0.020833333333333332
-            ],
-            [
-                "including",
-                0.020833333333333332
-            ],
-            [
-                "spindle",
-                0.020833333333333332
-            ],
-            [
-                "a",
-                0.020833333333333332
-            ],
-            [
-                "markers",
-                0.020833333333333332
-            ],
-            [
-                "microscopically",
-                0.010416666666666666
-            ],
-            [
-                "poorly",
-                0.010416666666666666
-            ],
-            [
-                "composed",
-                0.010416666666666666
-            ],
-            [
-                "minimal",
-                0.010416666666666666
-            ],
-            [
-                "arranged",
-                0.010416666666666666
-            ],
-            [
-                "insular",
-                0.010416666666666666
-            ],
-            [
-                "trabecular",
-                0.010416666666666666
-            ],
-            [
-                "growth",
-                0.010416666666666666
-            ],
-            [
-                "patterns",
-                0.010416666666666666
-            ],
-            [
-                "intratumoral",
-                0.010416666666666666
-            ],
-            [
-                "necrosis",
-                0.010416666666666666
-            ],
-            [
-                "frequent",
-                0.010416666666666666
-            ],
-            [
-                "mitoses",
-                0.010416666666666666
-            ],
-            [
-                "often",
-                0.010416666666666666
-            ],
-            [
-                "seen",
-                0.010416666666666666
-            ],
-            [
-                "anaplastic",
-                0.010416666666666666
-            ],
-            [
-                "demonstrate",
-                0.010416666666666666
-            ],
-            [
-                "variable",
-                0.010416666666666666
-            ],
-            [
-                "large",
-                0.010416666666666666
-            ],
-            [
-                "pleomorphic",
-                0.010416666666666666
-            ],
-            [
-                "occasional",
-                0.010416666666666666
-            ],
-            [
-                "osteoclast",
-                0.010416666666666666
-            ],
-            [
-                "multinucleate",
-                0.010416666666666666
-            ],
-            [
-                "sarcomatous",
-                0.010416666666666666
-            ],
-            [
-                "appearance",
-                0.010416666666666666
-            ],
-            [
-                "mixed",
-                0.010416666666666666
-            ],
-            [
-                "foci",
-                0.010416666666666666
-            ],
-            [
-                "papillary",
-                0.010416666666666666
-            ],
-            [
-                "may",
-                0.010416666666666666
-            ],
-            [
-                "be",
-                0.010416666666666666
-            ],
-            [
-                "present",
-                0.010416666666666666
-            ],
-            [
-                "some",
-                0.010416666666666666
-            ],
-            [
-                "tumors",
-                0.010416666666666666
-            ],
-            [
-                "suggesting",
-                0.010416666666666666
-            ],
-            [
-                "an",
-                0.010416666666666666
-            ],
-            [
-                "origin",
-                0.010416666666666666
-            ],
-            [
-                "from",
-                0.010416666666666666
-            ],
-            [
-                "well",
-                0.010416666666666666
-            ],
-            [
-                "carcinoma",
-                0.010416666666666666
-            ],
-            [
-                "the",
-                0.010416666666666666
-            ],
-            [
-                "neoplastic",
-                0.010416666666666666
-            ],
-            [
-                "express",
-                0.010416666666666666
-            ],
-            [
-                "epithelial",
-                0.010416666666666666
-            ],
-            [
-                "cytokeratin",
-                0.010416666666666666
-            ],
-            [
-                "but",
-                0.010416666666666666
-            ],
-            [
-                "usually",
-                0.010416666666666666
-            ],
-            [
-                "negative",
-                0.010416666666666666
-            ],
-            [
-                "for",
-                0.010416666666666666
-            ],
-            [
-                "thyroid",
-                0.010416666666666666
-            ],
-            [
-                "thyroglobulin",
-                0.010416666666666666
-            ]
-        ],
-        [
-            [
-                "the",
-                0.05128205128205128
-            ],
-            [
-                "in",
-                0.042735042735042736
-            ],
-            [
-                "and",
-                0.03418803418803419
-            ],
-            [
-                "of",
-                0.03418803418803419
-            ],
-            [
-                "carcinomas",
-                0.02564102564102564
-            ],
-            [
-                "most",
-                0.02564102564102564
-            ],
-            [
-                "has",
-                0.02564102564102564
-            ],
-            [
-                "to",
-                0.02564102564102564
-            ],
-            [
-                "poorly",
-                0.017094017094017096
-            ],
-            [
-                "anaplastic",
-                0.017094017094017096
-            ],
-            [
-                "as",
-                0.017094017094017096
-            ],
-            [
-                "neck",
-                0.017094017094017096
-            ],
-            [
-                "cases",
-                0.017094017094017096
-            ],
-            [
-                "thyroid",
-                0.017094017094017096
-            ],
-            [
-                "adjacent",
-                0.017094017094017096
-            ],
-            [
-                "structures",
-                0.017094017094017096
-            ],
-            [
-                "are",
-                0.017094017094017096
-            ],
-            [
-                "clinical",
-                0.008547008547008548
-            ],
-            [
-                "features",
-                0.008547008547008548
-            ],
-            [
-                "differentiated",
-                0.008547008547008548
-            ],
-            [
-                "usually",
-                0.008547008547008548
-            ],
-            [
-                "present",
-                0.008547008547008548
-            ],
-            [
-                "rapidly",
-                0.008547008547008548
-            ],
-            [
-                "enlarging",
-                0.008547008547008548
-            ],
-            [
-                "bulky",
-                0.008547008547008548
-            ],
-            [
-                "masses",
-                0.008547008547008548
-            ],
-            [
-                "disease",
-                0.008547008547008548
-            ],
-            [
-                "spread",
-                0.008547008547008548
-            ],
-            [
-                "beyond",
-                0.008547008547008548
-            ],
-            [
-                "into",
-                0.008547008547008548
-            ],
-            [
-                "or",
-                0.008547008547008548
-            ],
-            [
-                "metastasized",
-                0.008547008547008548
-            ],
-            [
-                "lungs",
-                0.008547008547008548
-            ],
-            [
-                "at",
-                0.008547008547008548
-            ],
-            [
-                "time",
-                0.008547008547008548
-            ],
-            [
-                "presentation",
-                0.008547008547008548
-            ],
-            [
-                "symptoms",
-                0.008547008547008548
-            ],
-            [
-                "related",
-                0.008547008547008548
-            ],
-            [
-                "compression",
-                0.008547008547008548
-            ],
-            [
-                "invasion",
-                0.008547008547008548
-            ],
-            [
-                "such",
-                0.008547008547008548
-            ],
-            [
-                "dyspnea",
-                0.008547008547008548
-            ],
-            [
-                "dysphagia",
-                0.008547008547008548
-            ],
-            [
-                "hoarseness",
-                0.008547008547008548
-            ],
-            [
-                "cough",
-                0.008547008547008548
-            ],
-            [
-                "common",
-                0.008547008547008548
-            ],
-            [
-                "one",
-                0.008547008547008548
-            ],
-            [
-                "aggressive",
-                0.008547008547008548
-            ],
-            [
-                "cancers",
-                0.008547008547008548
-            ],
-            [
-                "known",
-                0.008547008547008548
-            ],
-            [
-                "death",
-                0.008547008547008548
-            ],
-            [
-                "occurs",
-                0.008547008547008548
-            ],
-            [
-                "less",
-                0.008547008547008548
-            ],
-            [
-                "than",
-                0.008547008547008548
-            ],
-            [
-                "year",
-                0.008547008547008548
-            ],
-            [
-                "dif",
-                0.008547008547008548
-            ],
-            [
-                "ferentiated",
-                0.008547008547008548
-            ],
-            [
-                "fare",
-                0.008547008547008548
-            ],
-            [
-                "somewhat",
-                0.008547008547008548
-            ],
-            [
-                "better",
-                0.008547008547008548
-            ],
-            [
-                "with",
-                0.008547008547008548
-            ],
-            [
-                "radical",
-                0.008547008547008548
-            ],
-            [
-                "surgery",
-                0.008547008547008548
-            ],
-            [
-                "external",
-                0.008547008547008548
-            ],
-            [
-                "beam",
-                0.008547008547008548
-            ],
-            [
-                "radiotherapy",
-                0.008547008547008548
-            ],
-            [
-                "radioactive",
-                0.008547008547008548
-            ],
-            [
-                "iodine",
-                0.008547008547008548
-            ],
-            [
-                "more",
-                0.008547008547008548
-            ],
-            [
-                "recently",
-                0.008547008547008548
-            ],
-            [
-                "immunotherapy",
-                0.008547008547008548
-            ],
-            [
-                "using",
-                0.008547008547008548
-            ],
-            [
-                "immune",
-                0.008547008547008548
-            ],
-            [
-                "checkpoint",
-                0.008547008547008548
-            ],
-            [
-                "inhibitors",
-                0.008547008547008548
-            ],
-            [
-                "been",
-                0.008547008547008548
-            ],
-            [
-                "used",
-                0.008547008547008548
-            ],
-            [
-                "these",
-                0.008547008547008548
-            ],
-            [
-                "neoplasms",
-                0.008547008547008548
-            ],
-            [
-                "an",
-                0.008547008547008548
-            ],
-            [
-                "attempt",
-                0.008547008547008548
-            ],
-            [
-                "improve",
-                0.008547008547008548
-            ],
-            [
-                "their",
-                0.008547008547008548
-            ],
-            [
-                "dire",
-                0.008547008547008548
-            ],
-            [
-                "prognosis",
-                0.008547008547008548
-            ]
-        ]
+    "paragraphs": [
+        {
+            "text": "Poorly differentiated and anaplastic (undifferentiated) carcinomas represent aggressive neoplasms of the thyroid follicular epithelium, cumulatively accounting for less than 5% of thyroid tumors, but with a high mortality rate (approaching 100% for anaplastic lesions). Patients with either carcinoma are older than those with other types of thyroid cancer, with a mean age of 65 years. Approximately one-fourth of patients with poorly differentiated or anaplastic thyroid carcinomas have a past history of a well-differentiated follicular neoplasm, and another one-fourth harbor a concurrent well-differentiated neoplasm in the resected specimen.",
+            "stats": {
+                "poorly": 0.022727272727272728,
+                "differentiated": 0.045454545454545456,
+                "and": 0.022727272727272728,
+                "anaplastic": 0.03409090909090909,
+                "undifferentiated": 0.011363636363636364,
+                "carcinomas": 0.022727272727272728,
+                "represent": 0.011363636363636364,
+                "aggressive": 0.011363636363636364,
+                "neoplasms": 0.011363636363636364,
+                "of": 0.06818181818181818,
+                "the": 0.022727272727272728,
+                "thyroid": 0.045454545454545456,
+                "follicular": 0.022727272727272728,
+                "epithelium": 0.011363636363636364,
+                "cumulatively": 0.011363636363636364,
+                "accounting": 0.011363636363636364,
+                "for": 0.022727272727272728,
+                "less": 0.011363636363636364,
+                "than": 0.022727272727272728,
+                "tumors": 0.011363636363636364,
+                "but": 0.011363636363636364,
+                "with": 0.056818181818181816,
+                "a": 0.056818181818181816,
+                "high": 0.011363636363636364,
+                "mortality": 0.011363636363636364,
+                "rate": 0.011363636363636364,
+                "approaching": 0.011363636363636364,
+                "lesions": 0.011363636363636364,
+                "patients": 0.022727272727272728,
+                "either": 0.011363636363636364,
+                "carcinoma": 0.011363636363636364,
+                "are": 0.011363636363636364,
+                "older": 0.011363636363636364,
+                "those": 0.011363636363636364,
+                "other": 0.011363636363636364,
+                "types": 0.011363636363636364,
+                "cancer": 0.011363636363636364,
+                "mean": 0.011363636363636364,
+                "age": 0.011363636363636364,
+                "years": 0.011363636363636364,
+                "approximately": 0.011363636363636364,
+                "one": 0.022727272727272728,
+                "fourth": 0.022727272727272728,
+                "or": 0.011363636363636364,
+                "have": 0.011363636363636364,
+                "past": 0.011363636363636364,
+                "history": 0.011363636363636364,
+                "well": 0.022727272727272728,
+                "neoplasm": 0.022727272727272728,
+                "another": 0.011363636363636364,
+                "harbor": 0.011363636363636364,
+                "concurrent": 0.011363636363636364,
+                "in": 0.011363636363636364,
+                "resected": 0.011363636363636364,
+                "specimen": 0.011363636363636364
+            }
+        },
+        {
+            "text": "MORPHOLOGY\nMicroscopically, poorly differentiated carcinomas are composed of cells with minimal follicular differentiation, arranged in insular or trabecular growth patterns; intratumoral necrosis and frequent mitoses are often seen. Anaplastic carcinomas demonstrate variable morphology, including (1) large, pleomorphic giant cells, including occasional osteoclast-like multinucleate giant cells; (2) spindle cells with a sarcomatous appearance; and (3) mixed spindle and giant cells. Foci of papillary or follicular differentiation may be present in some tumors, suggesting an origin from a well- differentiated carcinoma. The neoplastic cells express epithelial markers like cytokeratin, but are usually negative for markers of thyroid differentiation, like thyroglobulin.",
+            "stats": {
+                "morphology": 0.020833333333333332,
+                "microscopically": 0.010416666666666666,
+                "poorly": 0.010416666666666666,
+                "differentiated": 0.020833333333333332,
+                "carcinomas": 0.020833333333333332,
+                "are": 0.03125,
+                "composed": 0.010416666666666666,
+                "of": 0.03125,
+                "cells": 0.0625,
+                "with": 0.020833333333333332,
+                "minimal": 0.010416666666666666,
+                "follicular": 0.020833333333333332,
+                "differentiation": 0.03125,
+                "arranged": 0.010416666666666666,
+                "in": 0.020833333333333332,
+                "insular": 0.010416666666666666,
+                "or": 0.020833333333333332,
+                "trabecular": 0.010416666666666666,
+                "growth": 0.010416666666666666,
+                "patterns": 0.010416666666666666,
+                "intratumoral": 0.010416666666666666,
+                "necrosis": 0.010416666666666666,
+                "and": 0.03125,
+                "frequent": 0.010416666666666666,
+                "mitoses": 0.010416666666666666,
+                "often": 0.010416666666666666,
+                "seen": 0.010416666666666666,
+                "anaplastic": 0.010416666666666666,
+                "demonstrate": 0.010416666666666666,
+                "variable": 0.010416666666666666,
+                "including": 0.020833333333333332,
+                "large": 0.010416666666666666,
+                "pleomorphic": 0.010416666666666666,
+                "giant": 0.03125,
+                "occasional": 0.010416666666666666,
+                "osteoclast": 0.010416666666666666,
+                "like": 0.03125,
+                "multinucleate": 0.010416666666666666,
+                "spindle": 0.020833333333333332,
+                "a": 0.020833333333333332,
+                "sarcomatous": 0.010416666666666666,
+                "appearance": 0.010416666666666666,
+                "mixed": 0.010416666666666666,
+                "foci": 0.010416666666666666,
+                "papillary": 0.010416666666666666,
+                "may": 0.010416666666666666,
+                "be": 0.010416666666666666,
+                "present": 0.010416666666666666,
+                "some": 0.010416666666666666,
+                "tumors": 0.010416666666666666,
+                "suggesting": 0.010416666666666666,
+                "an": 0.010416666666666666,
+                "origin": 0.010416666666666666,
+                "from": 0.010416666666666666,
+                "well": 0.010416666666666666,
+                "carcinoma": 0.010416666666666666,
+                "the": 0.010416666666666666,
+                "neoplastic": 0.010416666666666666,
+                "express": 0.010416666666666666,
+                "epithelial": 0.010416666666666666,
+                "markers": 0.020833333333333332,
+                "cytokeratin": 0.010416666666666666,
+                "but": 0.010416666666666666,
+                "usually": 0.010416666666666666,
+                "negative": 0.010416666666666666,
+                "for": 0.010416666666666666,
+                "thyroid": 0.010416666666666666,
+                "thyroglobulin": 0.010416666666666666
+            }
+        },
+        {
+            "text": "Clinical Features\nPoorly differentiated and anaplastic carcinomas usually present as rapidly enlarging bulky neck masses. In most cases, the disease has spread beyond the thyroid into adjacent neck structures or has metastasized to the lungs at the time of presentation. Symptoms related to compression and invasion of adjacent structures, such as dyspnea, dysphagia, hoarseness, and cough, are common. Anaplastic carcinomas of the thyroid are one of the most aggressive cancers known; in most cases death occurs in less than 1 year. Poorly dif- ferentiated carcinomas fare somewhat better with radical surgery, external beam radiotherapy, and radioactive iodine. More recently, immunotherapy using immune checkpoint inhibitors has been used in these neoplasms in an attempt to improve their dire prognosis.",
+            "stats": {
+                "clinical": 0.008547008547008548,
+                "features": 0.008547008547008548,
+                "poorly": 0.017094017094017096,
+                "differentiated": 0.008547008547008548,
+                "and": 0.03418803418803419,
+                "anaplastic": 0.017094017094017096,
+                "carcinomas": 0.02564102564102564,
+                "usually": 0.008547008547008548,
+                "present": 0.008547008547008548,
+                "as": 0.017094017094017096,
+                "rapidly": 0.008547008547008548,
+                "enlarging": 0.008547008547008548,
+                "bulky": 0.008547008547008548,
+                "neck": 0.017094017094017096,
+                "masses": 0.008547008547008548,
+                "in": 0.042735042735042736,
+                "most": 0.02564102564102564,
+                "cases": 0.017094017094017096,
+                "the": 0.05128205128205128,
+                "disease": 0.008547008547008548,
+                "has": 0.02564102564102564,
+                "spread": 0.008547008547008548,
+                "beyond": 0.008547008547008548,
+                "thyroid": 0.017094017094017096,
+                "into": 0.008547008547008548,
+                "adjacent": 0.017094017094017096,
+                "structures": 0.017094017094017096,
+                "or": 0.008547008547008548,
+                "metastasized": 0.008547008547008548,
+                "to": 0.02564102564102564,
+                "lungs": 0.008547008547008548,
+                "at": 0.008547008547008548,
+                "time": 0.008547008547008548,
+                "of": 0.03418803418803419,
+                "presentation": 0.008547008547008548,
+                "symptoms": 0.008547008547008548,
+                "related": 0.008547008547008548,
+                "compression": 0.008547008547008548,
+                "invasion": 0.008547008547008548,
+                "such": 0.008547008547008548,
+                "dyspnea": 0.008547008547008548,
+                "dysphagia": 0.008547008547008548,
+                "hoarseness": 0.008547008547008548,
+                "cough": 0.008547008547008548,
+                "are": 0.017094017094017096,
+                "common": 0.008547008547008548,
+                "one": 0.008547008547008548,
+                "aggressive": 0.008547008547008548,
+                "cancers": 0.008547008547008548,
+                "known": 0.008547008547008548,
+                "death": 0.008547008547008548,
+                "occurs": 0.008547008547008548,
+                "less": 0.008547008547008548,
+                "than": 0.008547008547008548,
+                "year": 0.008547008547008548,
+                "dif": 0.008547008547008548,
+                "ferentiated": 0.008547008547008548,
+                "fare": 0.008547008547008548,
+                "somewhat": 0.008547008547008548,
+                "better": 0.008547008547008548,
+                "with": 0.008547008547008548,
+                "radical": 0.008547008547008548,
+                "surgery": 0.008547008547008548,
+                "external": 0.008547008547008548,
+                "beam": 0.008547008547008548,
+                "radiotherapy": 0.008547008547008548,
+                "radioactive": 0.008547008547008548,
+                "iodine": 0.008547008547008548,
+                "more": 0.008547008547008548,
+                "recently": 0.008547008547008548,
+                "immunotherapy": 0.008547008547008548,
+                "using": 0.008547008547008548,
+                "immune": 0.008547008547008548,
+                "checkpoint": 0.008547008547008548,
+                "inhibitors": 0.008547008547008548,
+                "been": 0.008547008547008548,
+                "used": 0.008547008547008548,
+                "these": 0.008547008547008548,
+                "neoplasms": 0.008547008547008548,
+                "an": 0.008547008547008548,
+                "attempt": 0.008547008547008548,
+                "improve": 0.008547008547008548,
+                "their": 0.008547008547008548,
+                "dire": 0.008547008547008548,
+                "prognosis": 0.008547008547008548
+            }
+        }
     ]
 }

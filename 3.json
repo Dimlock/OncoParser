@@ -1,2685 +1,720 @@
 {
     "original_text": "Papillary carcinomas are the most common form of thyroid cancer, accounting for nearly 85% of cases in the United States. They occur throughout life but most often between 25 and 50 years of age, and account for the majority of thyroid carcinomas associated with previous exposure to ionizing radiation. The incidence of papillary carcinoma has increased markedly in the last 30 years, partly because of the rise in detection of papillary microcarcinomas and noninvasive encapsulated variants found incidentally during neck examination\n\nMORPHOLOGY\nConventional papillary carcinomas may be solitary or multifocal. Some tumors are well circumscribed, while others infiltrate the adjacent parenchyma and have ill-defined margins. The tumors may contain areas of fibrosis and calcification and are often cystic. The cut surface sometimes reveals papillary foci that point to the diagnosis. Papillary microcarcinoma is defined as an otherwise conventional papillary carcinoma, but less than 1 cm in size. As stated earlier, they are considered putative precursor lesions of more typical papillary carcinomas.\n\nThe microscopic hallmarks of papillary neoplasms include the following (Fig. 24.19):\n• Branching papillae having a fibrovascular stalk covered by a single to multiple layers of cuboidal epithelial cells. In most neoplasms, the epithelium covering the papillae consists of well-differentiated, uniform, orderly cuboidal cells, but at the other extreme are those with fairly anaplastic epithelium showing considerable variation in cell and nuclear morphology. When present, the papillae differ from those seen in areas of hyperplasia in being more complex and having dense fibrovascular cores.\n• Nuclei with finely dispersed chromatin and an optically clear or empty appearance, giving rise to the designation ground-glass or Orphan Annie eye nuclei. In addition, invaginations of the nuclear membrane may give the appearance of nuclear inclusions (“pseudo-inclusions”) or grooves. The diagnosis of papillary carcinoma can be made based on these nuclear features, even in the absence of papillary architecture.\n• Concentrically calcified structures termed psammoma bodies are often present, usually within the cores of papillae. These structures are almost never found in follicular and medullary carcinomas, and they are a strong indication that the lesion is a papillary carcinoma when present in fine-needle aspiration material.\n• Foci of lymphatic invasion by tumor are often present, but involvement of blood vessels is uncommon, particularly in smaller lesions. Metastases to adjacent cervical lymph nodes occur in up to one-half of cases.\n\nThere are over a dozen histologic variants of papillary carcinoma that can mimic other thyroid lesions or harbor distinct prognostic implications; most are beyond the scope of this book. The tall cell variant has tall columnar cells with intensely eosinophilic cytoplasm. These tumors tend to occur in older individuals and have higher frequencies of vascular invasion, extrathyroidal extension, and cervical and distant metastases than conventional PTC. Tall cell variant papillary carcinomas almost always harbor BRAF mutations, and often have RET/PTC translocations as well. The co-occurrence of these two aberrations may contribute to the aggressive behavior of this variant.\n\nAn unusual diffuse sclerosing variant of papillary carcinoma occurs in younger individuals, including children. The tumor has a prominent papillary growth pattern intermixed with solid areas containing nests of squamous metaplasia. As the name suggests, there is extensive, diffuse fibrosis throughout the thyroid gland, often associated with a prominent lymphocytic infiltrate, simulating Hashimoto thyroiditis. Lymph node metastases are present in almost all cases. The diffuse sclerosing variant carcinomas lack BRAF mutations, but RET/PTC translocations are found in approximately one-half of cases.\n\nThe follicular variant of PTC has the characteristic nuclear\nfeatures of papillary carcinoma and an almost totally follicular architecture. As mentioned earlier, genetic analyses have shown that encapsulated follicular variants of PTC harbor distinct molecular abnormalities from conventional PTCs. As already discussed, encapsulated follicular variants of papillary thyroid cancer without capsular invasion are designated noninvasive follicular thyroid carcinoma with papillary-like nuclear features and have a very low risk of recurrence or metastasis, whereas invasive tumors are referred to as invasive encapsulated follicular variant of papillary thyroid carcinoma.\n\nClinical Features\nMost conventional papillary carcinomas present as asymptomatic thyroid nodules, but the first manifestation may be a mass in a cervical lymph node. Interestingly, the presence of isolated cervical nodal metastases does not have a significant impact on prognosis, which is generally good. Most carcinomas are single nodules that move freely with the thyroid gland during swallowing and are not distinguishable on examination from benign nodules. Hoarseness, dysphagia, cough, or dyspnea suggests advanced disease. In a minority of patients, hematogenous metastases are present at the time of diagnosis, most commonly in the lung.\n\nA variety of diagnostic tests have been used to help separate benign from malignant thyroid nodules, including radionuclide scanning and fine-needle aspiration. Papillary carcinomas are cold masses on scintigraphy. Improvements in cytologic analysis have made fine-needle aspiration cytology a reliable test for distinguishing between benign and malignant nodules.\n\nPapillary thyroid cancers have an excellent prognosis, with a 10-year survival rate in excess of 95%. Patients with papillary microcarcinomas and noninvasive follicular thyroid neoplasms with papillary-like nuclear features have an outstanding prognosis on lobectomy alone, and they typically do not require total thyroidectomy. This has become especially important since thyroidectomy may lead to vocal cord palsy (due to injury to the laryngeal nerve) and iatrogenic hypoparathyroidism.\n\nBetween 5% and 20% of patients with more typical PTCs have local or regional recurrences, and 10% to 15% have distant metastases. The prognosis is dependent on several factors including age (in general, being less favorable among patients older than 40 years), presence of extrathyroidal extension, and presence of distant metastases (stage).",
-    "stats": [
-        [
-            [
-                "of",
-                0.09090909090909091
-            ],
-            [
-                "the",
-                0.07792207792207792
-            ],
-            [
-                "papillary",
-                0.03896103896103896
-            ],
-            [
-                "in",
-                0.03896103896103896
-            ],
-            [
-                "and",
-                0.03896103896103896
-            ],
-            [
-                "carcinomas",
-                0.025974025974025976
-            ],
-            [
-                "most",
-                0.025974025974025976
-            ],
-            [
-                "thyroid",
-                0.025974025974025976
-            ],
-            [
-                "for",
-                0.025974025974025976
-            ],
-            [
-                "years",
-                0.025974025974025976
-            ],
-            [
-                "are",
-                0.012987012987012988
-            ],
-            [
-                "common",
-                0.012987012987012988
-            ],
-            [
-                "form",
-                0.012987012987012988
-            ],
-            [
-                "cancer",
-                0.012987012987012988
-            ],
-            [
-                "accounting",
-                0.012987012987012988
-            ],
-            [
-                "nearly",
-                0.012987012987012988
-            ],
-            [
-                "cases",
-                0.012987012987012988
-            ],
-            [
-                "united",
-                0.012987012987012988
-            ],
-            [
-                "states",
-                0.012987012987012988
-            ],
-            [
-                "they",
-                0.012987012987012988
-            ],
-            [
-                "occur",
-                0.012987012987012988
-            ],
-            [
-                "throughout",
-                0.012987012987012988
-            ],
-            [
-                "life",
-                0.012987012987012988
-            ],
-            [
-                "but",
-                0.012987012987012988
-            ],
-            [
-                "often",
-                0.012987012987012988
-            ],
-            [
-                "between",
-                0.012987012987012988
-            ],
-            [
-                "age",
-                0.012987012987012988
-            ],
-            [
-                "account",
-                0.012987012987012988
-            ],
-            [
-                "majority",
-                0.012987012987012988
-            ],
-            [
-                "associated",
-                0.012987012987012988
-            ],
-            [
-                "with",
-                0.012987012987012988
-            ],
-            [
-                "previous",
-                0.012987012987012988
-            ],
-            [
-                "exposure",
-                0.012987012987012988
-            ],
-            [
-                "to",
-                0.012987012987012988
-            ],
-            [
-                "ionizing",
-                0.012987012987012988
-            ],
-            [
-                "radiation",
-                0.012987012987012988
-            ],
-            [
-                "incidence",
-                0.012987012987012988
-            ],
-            [
-                "carcinoma",
-                0.012987012987012988
-            ],
-            [
-                "has",
-                0.012987012987012988
-            ],
-            [
-                "increased",
-                0.012987012987012988
-            ],
-            [
-                "markedly",
-                0.012987012987012988
-            ],
-            [
-                "last",
-                0.012987012987012988
-            ],
-            [
-                "partly",
-                0.012987012987012988
-            ],
-            [
-                "because",
-                0.012987012987012988
-            ],
-            [
-                "rise",
-                0.012987012987012988
-            ],
-            [
-                "detection",
-                0.012987012987012988
-            ],
-            [
-                "microcarcinomas",
-                0.012987012987012988
-            ],
-            [
-                "noninvasive",
-                0.012987012987012988
-            ],
-            [
-                "encapsulated",
-                0.012987012987012988
-            ],
-            [
-                "variants",
-                0.012987012987012988
-            ],
-            [
-                "found",
-                0.012987012987012988
-            ],
-            [
-                "incidentally",
-                0.012987012987012988
-            ],
-            [
-                "during",
-                0.012987012987012988
-            ],
-            [
-                "neck",
-                0.012987012987012988
-            ],
-            [
-                "examination",
-                0.012987012987012988
-            ]
-        ],
-        [
-            [
-                "papillary",
-                0.0625
-            ],
-            [
-                "the",
-                0.05
-            ],
-            [
-                "are",
-                0.0375
-            ],
-            [
-                "and",
-                0.0375
-            ],
-            [
-                "conventional",
-                0.025
-            ],
-            [
-                "carcinomas",
-                0.025
-            ],
-            [
-                "may",
-                0.025
-            ],
-            [
-                "tumors",
-                0.025
-            ],
-            [
-                "defined",
-                0.025
-            ],
-            [
-                "of",
-                0.025
-            ],
-            [
-                "as",
-                0.025
-            ],
-            [
-                "morphology",
-                0.0125
-            ],
-            [
-                "be",
-                0.0125
-            ],
-            [
-                "solitary",
-                0.0125
-            ],
-            [
-                "or",
-                0.0125
-            ],
-            [
-                "multifocal",
-                0.0125
-            ],
-            [
-                "some",
-                0.0125
-            ],
-            [
-                "well",
-                0.0125
-            ],
-            [
-                "circumscribed",
-                0.0125
-            ],
-            [
-                "while",
-                0.0125
-            ],
-            [
-                "others",
-                0.0125
-            ],
-            [
-                "infiltrate",
-                0.0125
-            ],
-            [
-                "adjacent",
-                0.0125
-            ],
-            [
-                "parenchyma",
-                0.0125
-            ],
-            [
-                "have",
-                0.0125
-            ],
-            [
-                "ill",
-                0.0125
-            ],
-            [
-                "margins",
-                0.0125
-            ],
-            [
-                "contain",
-                0.0125
-            ],
-            [
-                "areas",
-                0.0125
-            ],
-            [
-                "fibrosis",
-                0.0125
-            ],
-            [
-                "calcification",
-                0.0125
-            ],
-            [
-                "often",
-                0.0125
-            ],
-            [
-                "cystic",
-                0.0125
-            ],
-            [
-                "cut",
-                0.0125
-            ],
-            [
-                "surface",
-                0.0125
-            ],
-            [
-                "sometimes",
-                0.0125
-            ],
-            [
-                "reveals",
-                0.0125
-            ],
-            [
-                "foci",
-                0.0125
-            ],
-            [
-                "that",
-                0.0125
-            ],
-            [
-                "point",
-                0.0125
-            ],
-            [
-                "to",
-                0.0125
-            ],
-            [
-                "diagnosis",
-                0.0125
-            ],
-            [
-                "microcarcinoma",
-                0.0125
-            ],
-            [
-                "is",
-                0.0125
-            ],
-            [
-                "an",
-                0.0125
-            ],
-            [
-                "otherwise",
-                0.0125
-            ],
-            [
-                "carcinoma",
-                0.0125
-            ],
-            [
-                "but",
-                0.0125
-            ],
-            [
-                "less",
-                0.0125
-            ],
-            [
-                "than",
-                0.0125
-            ],
-            [
-                "cm",
-                0.0125
-            ],
-            [
-                "in",
-                0.0125
-            ],
-            [
-                "size",
-                0.0125
-            ],
-            [
-                "stated",
-                0.0125
-            ],
-            [
-                "earlier",
-                0.0125
-            ],
-            [
-                "they",
-                0.0125
-            ],
-            [
-                "considered",
-                0.0125
-            ],
-            [
-                "putative",
-                0.0125
-            ],
-            [
-                "precursor",
-                0.0125
-            ],
-            [
-                "lesions",
-                0.0125
-            ],
-            [
-                "more",
-                0.0125
-            ],
-            [
-                "typical",
-                0.0125
-            ]
-        ],
-        [
-            [
-                "the",
-                0.057777777777777775
-            ],
-            [
-                "of",
-                0.05333333333333334
-            ],
-            [
-                "in",
-                0.044444444444444446
-            ],
-            [
-                "are",
-                0.022222222222222223
-            ],
-            [
-                "and",
-                0.022222222222222223
-            ],
-            [
-                "papillary",
-                0.017777777777777778
-            ],
-            [
-                "papillae",
-                0.017777777777777778
-            ],
-            [
-                "a",
-                0.017777777777777778
-            ],
-            [
-                "to",
-                0.017777777777777778
-            ],
-            [
-                "nuclear",
-                0.017777777777777778
-            ],
-            [
-                "present",
-                0.017777777777777778
-            ],
-            [
-                "or",
-                0.013333333333333334
-            ],
-            [
-                "neoplasms",
-                0.008888888888888889
-            ],
-            [
-                "having",
-                0.008888888888888889
-            ],
-            [
-                "fibrovascular",
-                0.008888888888888889
-            ],
-            [
-                "by",
-                0.008888888888888889
-            ],
-            [
-                "cuboidal",
-                0.008888888888888889
-            ],
-            [
-                "cells",
-                0.008888888888888889
-            ],
-            [
-                "epithelium",
-                0.008888888888888889
-            ],
-            [
-                "but",
-                0.008888888888888889
-            ],
-            [
-                "those",
-                0.008888888888888889
-            ],
-            [
-                "with",
-                0.008888888888888889
-            ],
-            [
-                "when",
-                0.008888888888888889
-            ],
-            [
-                "cores",
-                0.008888888888888889
-            ],
-            [
-                "nuclei",
-                0.008888888888888889
-            ],
-            [
-                "appearance",
-                0.008888888888888889
-            ],
-            [
-                "inclusions",
-                0.008888888888888889
-            ],
-            [
-                "carcinoma",
-                0.008888888888888889
-            ],
-            [
-                "these",
-                0.008888888888888889
-            ],
-            [
-                "structures",
-                0.008888888888888889
-            ],
-            [
-                "often",
-                0.008888888888888889
-            ],
-            [
-                "is",
-                0.008888888888888889
-            ],
-            [
-                "microscopic",
-                0.0044444444444444444
-            ],
-            [
-                "hallmarks",
-                0.0044444444444444444
-            ],
-            [
-                "include",
-                0.0044444444444444444
-            ],
-            [
-                "following",
-                0.0044444444444444444
-            ],
-            [
-                "fig",
-                0.0044444444444444444
-            ],
-            [
-                "branching",
-                0.0044444444444444444
-            ],
-            [
-                "stalk",
-                0.0044444444444444444
-            ],
-            [
-                "covered",
-                0.0044444444444444444
-            ],
-            [
-                "single",
-                0.0044444444444444444
-            ],
-            [
-                "multiple",
-                0.0044444444444444444
-            ],
-            [
-                "layers",
-                0.0044444444444444444
-            ],
-            [
-                "epithelial",
-                0.0044444444444444444
-            ],
-            [
-                "most",
-                0.0044444444444444444
-            ],
-            [
-                "covering",
-                0.0044444444444444444
-            ],
-            [
-                "consists",
-                0.0044444444444444444
-            ],
-            [
-                "well",
-                0.0044444444444444444
-            ],
-            [
-                "differentiated",
-                0.0044444444444444444
-            ],
-            [
-                "uniform",
-                0.0044444444444444444
-            ],
-            [
-                "orderly",
-                0.0044444444444444444
-            ],
-            [
-                "at",
-                0.0044444444444444444
-            ],
-            [
-                "other",
-                0.0044444444444444444
-            ],
-            [
-                "extreme",
-                0.0044444444444444444
-            ],
-            [
-                "fairly",
-                0.0044444444444444444
-            ],
-            [
-                "anaplastic",
-                0.0044444444444444444
-            ],
-            [
-                "showing",
-                0.0044444444444444444
-            ],
-            [
-                "considerable",
-                0.0044444444444444444
-            ],
-            [
-                "variation",
-                0.0044444444444444444
-            ],
-            [
-                "cell",
-                0.0044444444444444444
-            ],
-            [
-                "morphology",
-                0.0044444444444444444
-            ],
-            [
-                "differ",
-                0.0044444444444444444
-            ],
-            [
-                "from",
-                0.0044444444444444444
-            ],
-            [
-                "seen",
-                0.0044444444444444444
-            ],
-            [
-                "areas",
-                0.0044444444444444444
-            ],
-            [
-                "hyperplasia",
-                0.0044444444444444444
-            ],
-            [
-                "being",
-                0.0044444444444444444
-            ],
-            [
-                "more",
-                0.0044444444444444444
-            ],
-            [
-                "complex",
-                0.0044444444444444444
-            ],
-            [
-                "dense",
-                0.0044444444444444444
-            ],
-            [
-                "finely",
-                0.0044444444444444444
-            ],
-            [
-                "dispersed",
-                0.0044444444444444444
-            ],
-            [
-                "chromatin",
-                0.0044444444444444444
-            ],
-            [
-                "an",
-                0.0044444444444444444
-            ],
-            [
-                "optically",
-                0.0044444444444444444
-            ],
-            [
-                "clear",
-                0.0044444444444444444
-            ],
-            [
-                "empty",
-                0.0044444444444444444
-            ],
-            [
-                "giving",
-                0.0044444444444444444
-            ],
-            [
-                "rise",
-                0.0044444444444444444
-            ],
-            [
-                "designation",
-                0.0044444444444444444
-            ],
-            [
-                "ground",
-                0.0044444444444444444
-            ],
-            [
-                "glass",
-                0.0044444444444444444
-            ],
-            [
-                "orphan",
-                0.0044444444444444444
-            ],
-            [
-                "annie",
-                0.0044444444444444444
-            ],
-            [
-                "eye",
-                0.0044444444444444444
-            ],
-            [
-                "addition",
-                0.0044444444444444444
-            ],
-            [
-                "invaginations",
-                0.0044444444444444444
-            ],
-            [
-                "membrane",
-                0.0044444444444444444
-            ],
-            [
-                "may",
-                0.0044444444444444444
-            ],
-            [
-                "give",
-                0.0044444444444444444
-            ],
-            [
-                "pseudo",
-                0.0044444444444444444
-            ],
-            [
-                "grooves",
-                0.0044444444444444444
-            ],
-            [
-                "diagnosis",
-                0.0044444444444444444
-            ],
-            [
-                "can",
-                0.0044444444444444444
-            ],
-            [
-                "be",
-                0.0044444444444444444
-            ],
-            [
-                "made",
-                0.0044444444444444444
-            ],
-            [
-                "based",
-                0.0044444444444444444
-            ],
-            [
-                "on",
-                0.0044444444444444444
-            ],
-            [
-                "features",
-                0.0044444444444444444
-            ],
-            [
-                "even",
-                0.0044444444444444444
-            ],
-            [
-                "absence",
-                0.0044444444444444444
-            ],
-            [
-                "architecture",
-                0.0044444444444444444
-            ],
-            [
-                "concentrically",
-                0.0044444444444444444
-            ],
-            [
-                "calcified",
-                0.0044444444444444444
-            ],
-            [
-                "termed",
-                0.0044444444444444444
-            ],
-            [
-                "psammoma",
-                0.0044444444444444444
-            ],
-            [
-                "bodies",
-                0.0044444444444444444
-            ],
-            [
-                "usually",
-                0.0044444444444444444
-            ],
-            [
-                "within",
-                0.0044444444444444444
-            ],
-            [
-                "almost",
-                0.0044444444444444444
-            ],
-            [
-                "never",
-                0.0044444444444444444
-            ],
-            [
-                "found",
-                0.0044444444444444444
-            ],
-            [
-                "follicular",
-                0.0044444444444444444
-            ],
-            [
-                "medullary",
-                0.0044444444444444444
-            ],
-            [
-                "carcinomas",
-                0.0044444444444444444
-            ],
-            [
-                "they",
-                0.0044444444444444444
-            ],
-            [
-                "strong",
-                0.0044444444444444444
-            ],
-            [
-                "indication",
-                0.0044444444444444444
-            ],
-            [
-                "that",
-                0.0044444444444444444
-            ],
-            [
-                "lesion",
-                0.0044444444444444444
-            ],
-            [
-                "fine",
-                0.0044444444444444444
-            ],
-            [
-                "needle",
-                0.0044444444444444444
-            ],
-            [
-                "aspiration",
-                0.0044444444444444444
-            ],
-            [
-                "material",
-                0.0044444444444444444
-            ],
-            [
-                "foci",
-                0.0044444444444444444
-            ],
-            [
-                "lymphatic",
-                0.0044444444444444444
-            ],
-            [
-                "invasion",
-                0.0044444444444444444
-            ],
-            [
-                "tumor",
-                0.0044444444444444444
-            ],
-            [
-                "involvement",
-                0.0044444444444444444
-            ],
-            [
-                "blood",
-                0.0044444444444444444
-            ],
-            [
-                "vessels",
-                0.0044444444444444444
-            ],
-            [
-                "uncommon",
-                0.0044444444444444444
-            ],
-            [
-                "particularly",
-                0.0044444444444444444
-            ],
-            [
-                "smaller",
-                0.0044444444444444444
-            ],
-            [
-                "lesions",
-                0.0044444444444444444
-            ],
-            [
-                "metastases",
-                0.0044444444444444444
-            ],
-            [
-                "adjacent",
-                0.0044444444444444444
-            ],
-            [
-                "cervical",
-                0.0044444444444444444
-            ],
-            [
-                "lymph",
-                0.0044444444444444444
-            ],
-            [
-                "nodes",
-                0.0044444444444444444
-            ],
-            [
-                "occur",
-                0.0044444444444444444
-            ],
-            [
-                "up",
-                0.0044444444444444444
-            ],
-            [
-                "one",
-                0.0044444444444444444
-            ],
-            [
-                "half",
-                0.0044444444444444444
-            ],
-            [
-                "cases",
-                0.0044444444444444444
-            ]
-        ],
-        [
-            [
-                "of",
-                0.05
-            ],
-            [
-                "the",
-                0.04
-            ],
-            [
-                "and",
-                0.04
-            ],
-            [
-                "tall",
-                0.03
-            ],
-            [
-                "variant",
-                0.03
-            ],
-            [
-                "are",
-                0.02
-            ],
-            [
-                "papillary",
-                0.02
-            ],
-            [
-                "harbor",
-                0.02
-            ],
-            [
-                "this",
-                0.02
-            ],
-            [
-                "cell",
-                0.02
-            ],
-            [
-                "these",
-                0.02
-            ],
-            [
-                "to",
-                0.02
-            ],
-            [
-                "have",
-                0.02
-            ],
-            [
-                "ptc",
-                0.02
-            ],
-            [
-                "there",
-                0.01
-            ],
-            [
-                "over",
-                0.01
-            ],
-            [
-                "a",
-                0.01
-            ],
-            [
-                "dozen",
-                0.01
-            ],
-            [
-                "histologic",
-                0.01
-            ],
-            [
-                "variants",
-                0.01
-            ],
-            [
-                "carcinoma",
-                0.01
-            ],
-            [
-                "that",
-                0.01
-            ],
-            [
-                "can",
-                0.01
-            ],
-            [
-                "mimic",
-                0.01
-            ],
-            [
-                "other",
-                0.01
-            ],
-            [
-                "thyroid",
-                0.01
-            ],
-            [
-                "lesions",
-                0.01
-            ],
-            [
-                "or",
-                0.01
-            ],
-            [
-                "distinct",
-                0.01
-            ],
-            [
-                "prognostic",
-                0.01
-            ],
-            [
-                "implications",
-                0.01
-            ],
-            [
-                "most",
-                0.01
-            ],
-            [
-                "beyond",
-                0.01
-            ],
-            [
-                "scope",
-                0.01
-            ],
-            [
-                "book",
-                0.01
-            ],
-            [
-                "has",
-                0.01
-            ],
-            [
-                "columnar",
-                0.01
-            ],
-            [
-                "cells",
-                0.01
-            ],
-            [
-                "with",
-                0.01
-            ],
-            [
-                "intensely",
-                0.01
-            ],
-            [
-                "eosinophilic",
-                0.01
-            ],
-            [
-                "cytoplasm",
-                0.01
-            ],
-            [
-                "tumors",
-                0.01
-            ],
-            [
-                "tend",
-                0.01
-            ],
-            [
-                "occur",
-                0.01
-            ],
-            [
-                "in",
-                0.01
-            ],
-            [
-                "older",
-                0.01
-            ],
-            [
-                "individuals",
-                0.01
-            ],
-            [
-                "higher",
-                0.01
-            ],
-            [
-                "frequencies",
-                0.01
-            ],
-            [
-                "vascular",
-                0.01
-            ],
-            [
-                "invasion",
-                0.01
-            ],
-            [
-                "extrathyroidal",
-                0.01
-            ],
-            [
-                "extension",
-                0.01
-            ],
-            [
-                "cervical",
-                0.01
-            ],
-            [
-                "distant",
-                0.01
-            ],
-            [
-                "metastases",
-                0.01
-            ],
-            [
-                "than",
-                0.01
-            ],
-            [
-                "conventional",
-                0.01
-            ],
-            [
-                "carcinomas",
-                0.01
-            ],
-            [
-                "almost",
-                0.01
-            ],
-            [
-                "always",
-                0.01
-            ],
-            [
-                "braf",
-                0.01
-            ],
-            [
-                "mutations",
-                0.01
-            ],
-            [
-                "often",
-                0.01
-            ],
-            [
-                "ret",
-                0.01
-            ],
-            [
-                "translocations",
-                0.01
-            ],
-            [
-                "as",
-                0.01
-            ],
-            [
-                "well",
-                0.01
-            ],
-            [
-                "co",
-                0.01
-            ],
-            [
-                "occurrence",
-                0.01
-            ],
-            [
-                "two",
-                0.01
-            ],
-            [
-                "aberrations",
-                0.01
-            ],
-            [
-                "may",
-                0.01
-            ],
-            [
-                "contribute",
-                0.01
-            ],
-            [
-                "aggressive",
-                0.01
-            ],
-            [
-                "behavior",
-                0.01
-            ]
-        ],
-        [
-            [
-                "the",
-                0.04819277108433735
-            ],
-            [
-                "diffuse",
-                0.03614457831325301
-            ],
-            [
-                "of",
-                0.03614457831325301
-            ],
-            [
-                "in",
-                0.03614457831325301
-            ],
-            [
-                "sclerosing",
-                0.024096385542168676
-            ],
-            [
-                "variant",
-                0.024096385542168676
-            ],
-            [
-                "papillary",
-                0.024096385542168676
-            ],
-            [
-                "a",
-                0.024096385542168676
-            ],
-            [
-                "prominent",
-                0.024096385542168676
-            ],
-            [
-                "with",
-                0.024096385542168676
-            ],
-            [
-                "are",
-                0.024096385542168676
-            ],
-            [
-                "cases",
-                0.024096385542168676
-            ],
-            [
-                "an",
-                0.012048192771084338
-            ],
-            [
-                "unusual",
-                0.012048192771084338
-            ],
-            [
-                "carcinoma",
-                0.012048192771084338
-            ],
-            [
-                "occurs",
-                0.012048192771084338
-            ],
-            [
-                "younger",
-                0.012048192771084338
-            ],
-            [
-                "individuals",
-                0.012048192771084338
-            ],
-            [
-                "including",
-                0.012048192771084338
-            ],
-            [
-                "children",
-                0.012048192771084338
-            ],
-            [
-                "tumor",
-                0.012048192771084338
-            ],
-            [
-                "has",
-                0.012048192771084338
-            ],
-            [
-                "growth",
-                0.012048192771084338
-            ],
-            [
-                "pattern",
-                0.012048192771084338
-            ],
-            [
-                "intermixed",
-                0.012048192771084338
-            ],
-            [
-                "solid",
-                0.012048192771084338
-            ],
-            [
-                "areas",
-                0.012048192771084338
-            ],
-            [
-                "containing",
-                0.012048192771084338
-            ],
-            [
-                "nests",
-                0.012048192771084338
-            ],
-            [
-                "squamous",
-                0.012048192771084338
-            ],
-            [
-                "metaplasia",
-                0.012048192771084338
-            ],
-            [
-                "as",
-                0.012048192771084338
-            ],
-            [
-                "name",
-                0.012048192771084338
-            ],
-            [
-                "suggests",
-                0.012048192771084338
-            ],
-            [
-                "there",
-                0.012048192771084338
-            ],
-            [
-                "is",
-                0.012048192771084338
-            ],
-            [
-                "extensive",
-                0.012048192771084338
-            ],
-            [
-                "fibrosis",
-                0.012048192771084338
-            ],
-            [
-                "throughout",
-                0.012048192771084338
-            ],
-            [
-                "thyroid",
-                0.012048192771084338
-            ],
-            [
-                "gland",
-                0.012048192771084338
-            ],
-            [
-                "often",
-                0.012048192771084338
-            ],
-            [
-                "associated",
-                0.012048192771084338
-            ],
-            [
-                "lymphocytic",
-                0.012048192771084338
-            ],
-            [
-                "infiltrate",
-                0.012048192771084338
-            ],
-            [
-                "simulating",
-                0.012048192771084338
-            ],
-            [
-                "hashimoto",
-                0.012048192771084338
-            ],
-            [
-                "thyroiditis",
-                0.012048192771084338
-            ],
-            [
-                "lymph",
-                0.012048192771084338
-            ],
-            [
-                "node",
-                0.012048192771084338
-            ],
-            [
-                "metastases",
-                0.012048192771084338
-            ],
-            [
-                "present",
-                0.012048192771084338
-            ],
-            [
-                "almost",
-                0.012048192771084338
-            ],
-            [
-                "all",
-                0.012048192771084338
-            ],
-            [
-                "carcinomas",
-                0.012048192771084338
-            ],
-            [
-                "lack",
-                0.012048192771084338
-            ],
-            [
-                "braf",
-                0.012048192771084338
-            ],
-            [
-                "mutations",
-                0.012048192771084338
-            ],
-            [
-                "but",
-                0.012048192771084338
-            ],
-            [
-                "ret",
-                0.012048192771084338
-            ],
-            [
-                "ptc",
-                0.012048192771084338
-            ],
-            [
-                "translocations",
-                0.012048192771084338
-            ],
-            [
-                "found",
-                0.012048192771084338
-            ],
-            [
-                "approximately",
-                0.012048192771084338
-            ],
-            [
-                "one",
-                0.012048192771084338
-            ],
-            [
-                "half",
-                0.012048192771084338
-            ]
-        ],
-        [
-            [
-                "follicular",
-                0.06818181818181818
-            ],
-            [
-                "of",
-                0.06818181818181818
-            ],
-            [
-                "papillary",
-                0.045454545454545456
-            ],
-            [
-                "carcinoma",
-                0.03409090909090909
-            ],
-            [
-                "as",
-                0.03409090909090909
-            ],
-            [
-                "encapsulated",
-                0.03409090909090909
-            ],
-            [
-                "thyroid",
-                0.03409090909090909
-            ],
-            [
-                "the",
-                0.022727272727272728
-            ],
-            [
-                "variant",
-                0.022727272727272728
-            ],
-            [
-                "ptc",
-                0.022727272727272728
-            ],
-            [
-                "nuclear",
-                0.022727272727272728
-            ],
-            [
-                "features",
-                0.022727272727272728
-            ],
-            [
-                "and",
-                0.022727272727272728
-            ],
-            [
-                "have",
-                0.022727272727272728
-            ],
-            [
-                "variants",
-                0.022727272727272728
-            ],
-            [
-                "are",
-                0.022727272727272728
-            ],
-            [
-                "invasive",
-                0.022727272727272728
-            ],
-            [
-                "has",
-                0.011363636363636364
-            ],
-            [
-                "characteristic",
-                0.011363636363636364
-            ],
-            [
-                "an",
-                0.011363636363636364
-            ],
-            [
-                "almost",
-                0.011363636363636364
-            ],
-            [
-                "totally",
-                0.011363636363636364
-            ],
-            [
-                "architecture",
-                0.011363636363636364
-            ],
-            [
-                "mentioned",
-                0.011363636363636364
-            ],
-            [
-                "earlier",
-                0.011363636363636364
-            ],
-            [
-                "genetic",
-                0.011363636363636364
-            ],
-            [
-                "analyses",
-                0.011363636363636364
-            ],
-            [
-                "shown",
-                0.011363636363636364
-            ],
-            [
-                "that",
-                0.011363636363636364
-            ],
-            [
-                "harbor",
-                0.011363636363636364
-            ],
-            [
-                "distinct",
-                0.011363636363636364
-            ],
-            [
-                "molecular",
-                0.011363636363636364
-            ],
-            [
-                "abnormalities",
-                0.011363636363636364
-            ],
-            [
-                "from",
-                0.011363636363636364
-            ],
-            [
-                "conventional",
-                0.011363636363636364
-            ],
-            [
-                "ptcs",
-                0.011363636363636364
-            ],
-            [
-                "already",
-                0.011363636363636364
-            ],
-            [
-                "discussed",
-                0.011363636363636364
-            ],
-            [
-                "cancer",
-                0.011363636363636364
-            ],
-            [
-                "without",
-                0.011363636363636364
-            ],
-            [
-                "capsular",
-                0.011363636363636364
-            ],
-            [
-                "invasion",
-                0.011363636363636364
-            ],
-            [
-                "designated",
-                0.011363636363636364
-            ],
-            [
-                "noninvasive",
-                0.011363636363636364
-            ],
-            [
-                "with",
-                0.011363636363636364
-            ],
-            [
-                "like",
-                0.011363636363636364
-            ],
-            [
-                "a",
-                0.011363636363636364
-            ],
-            [
-                "very",
-                0.011363636363636364
-            ],
-            [
-                "low",
-                0.011363636363636364
-            ],
-            [
-                "risk",
-                0.011363636363636364
-            ],
-            [
-                "recurrence",
-                0.011363636363636364
-            ],
-            [
-                "or",
-                0.011363636363636364
-            ],
-            [
-                "metastasis",
-                0.011363636363636364
-            ],
-            [
-                "whereas",
-                0.011363636363636364
-            ],
-            [
-                "tumors",
-                0.011363636363636364
-            ],
-            [
-                "referred",
-                0.011363636363636364
-            ],
-            [
-                "to",
-                0.011363636363636364
-            ]
-        ],
-        [
-            [
-                "the",
-                0.05319148936170213
-            ],
-            [
-                "a",
-                0.0425531914893617
-            ],
-            [
-                "most",
-                0.031914893617021274
-            ],
-            [
-                "nodules",
-                0.031914893617021274
-            ],
-            [
-                "in",
-                0.031914893617021274
-            ],
-            [
-                "of",
-                0.031914893617021274
-            ],
-            [
-                "are",
-                0.031914893617021274
-            ],
-            [
-                "carcinomas",
-                0.02127659574468085
-            ],
-            [
-                "present",
-                0.02127659574468085
-            ],
-            [
-                "thyroid",
-                0.02127659574468085
-            ],
-            [
-                "cervical",
-                0.02127659574468085
-            ],
-            [
-                "metastases",
-                0.02127659574468085
-            ],
-            [
-                "not",
-                0.02127659574468085
-            ],
-            [
-                "on",
-                0.02127659574468085
-            ],
-            [
-                "clinical",
-                0.010638297872340425
-            ],
-            [
-                "features",
-                0.010638297872340425
-            ],
-            [
-                "conventional",
-                0.010638297872340425
-            ],
-            [
-                "papillary",
-                0.010638297872340425
-            ],
-            [
-                "as",
-                0.010638297872340425
-            ],
-            [
-                "asymptomatic",
-                0.010638297872340425
-            ],
-            [
-                "but",
-                0.010638297872340425
-            ],
-            [
-                "first",
-                0.010638297872340425
-            ],
-            [
-                "manifestation",
-                0.010638297872340425
-            ],
-            [
-                "may",
-                0.010638297872340425
-            ],
-            [
-                "be",
-                0.010638297872340425
-            ],
-            [
-                "mass",
-                0.010638297872340425
-            ],
-            [
-                "lymph",
-                0.010638297872340425
-            ],
-            [
-                "node",
-                0.010638297872340425
-            ],
-            [
-                "interestingly",
-                0.010638297872340425
-            ],
-            [
-                "presence",
-                0.010638297872340425
-            ],
-            [
-                "isolated",
-                0.010638297872340425
-            ],
-            [
-                "nodal",
-                0.010638297872340425
-            ],
-            [
-                "does",
-                0.010638297872340425
-            ],
-            [
-                "have",
-                0.010638297872340425
-            ],
-            [
-                "significant",
-                0.010638297872340425
-            ],
-            [
-                "impact",
-                0.010638297872340425
-            ],
-            [
-                "prognosis",
-                0.010638297872340425
-            ],
-            [
-                "which",
-                0.010638297872340425
-            ],
-            [
-                "is",
-                0.010638297872340425
-            ],
-            [
-                "generally",
-                0.010638297872340425
-            ],
-            [
-                "good",
-                0.010638297872340425
-            ],
-            [
-                "single",
-                0.010638297872340425
-            ],
-            [
-                "that",
-                0.010638297872340425
-            ],
-            [
-                "move",
-                0.010638297872340425
-            ],
-            [
-                "freely",
-                0.010638297872340425
-            ],
-            [
-                "with",
-                0.010638297872340425
-            ],
-            [
-                "gland",
-                0.010638297872340425
-            ],
-            [
-                "during",
-                0.010638297872340425
-            ],
-            [
-                "swallowing",
-                0.010638297872340425
-            ],
-            [
-                "and",
-                0.010638297872340425
-            ],
-            [
-                "distinguishable",
-                0.010638297872340425
-            ],
-            [
-                "examination",
-                0.010638297872340425
-            ],
-            [
-                "from",
-                0.010638297872340425
-            ],
-            [
-                "benign",
-                0.010638297872340425
-            ],
-            [
-                "hoarseness",
-                0.010638297872340425
-            ],
-            [
-                "dysphagia",
-                0.010638297872340425
-            ],
-            [
-                "cough",
-                0.010638297872340425
-            ],
-            [
-                "or",
-                0.010638297872340425
-            ],
-            [
-                "dyspnea",
-                0.010638297872340425
-            ],
-            [
-                "suggests",
-                0.010638297872340425
-            ],
-            [
-                "advanced",
-                0.010638297872340425
-            ],
-            [
-                "disease",
-                0.010638297872340425
-            ],
-            [
-                "minority",
-                0.010638297872340425
-            ],
-            [
-                "patients",
-                0.010638297872340425
-            ],
-            [
-                "hematogenous",
-                0.010638297872340425
-            ],
-            [
-                "at",
-                0.010638297872340425
-            ],
-            [
-                "time",
-                0.010638297872340425
-            ],
-            [
-                "diagnosis",
-                0.010638297872340425
-            ],
-            [
-                "commonly",
-                0.010638297872340425
-            ],
-            [
-                "lung",
-                0.010638297872340425
-            ]
-        ],
-        [
-            [
-                "a",
-                0.04
-            ],
-            [
-                "have",
-                0.04
-            ],
-            [
-                "benign",
-                0.04
-            ],
-            [
-                "malignant",
-                0.04
-            ],
-            [
-                "nodules",
-                0.04
-            ],
-            [
-                "and",
-                0.04
-            ],
-            [
-                "fine",
-                0.04
-            ],
-            [
-                "needle",
-                0.04
-            ],
-            [
-                "aspiration",
-                0.04
-            ],
-            [
-                "variety",
-                0.02
-            ],
-            [
-                "of",
-                0.02
-            ],
-            [
-                "diagnostic",
-                0.02
-            ],
-            [
-                "tests",
-                0.02
-            ],
-            [
-                "been",
-                0.02
-            ],
-            [
-                "used",
-                0.02
-            ],
-            [
-                "to",
-                0.02
-            ],
-            [
-                "help",
-                0.02
-            ],
-            [
-                "separate",
-                0.02
-            ],
-            [
-                "from",
-                0.02
-            ],
-            [
-                "thyroid",
-                0.02
-            ],
-            [
-                "including",
-                0.02
-            ],
-            [
-                "radionuclide",
-                0.02
-            ],
-            [
-                "scanning",
-                0.02
-            ],
-            [
-                "papillary",
-                0.02
-            ],
-            [
-                "carcinomas",
-                0.02
-            ],
-            [
-                "are",
-                0.02
-            ],
-            [
-                "cold",
-                0.02
-            ],
-            [
-                "masses",
-                0.02
-            ],
-            [
-                "on",
-                0.02
-            ],
-            [
-                "scintigraphy",
-                0.02
-            ],
-            [
-                "improvements",
-                0.02
-            ],
-            [
-                "in",
-                0.02
-            ],
-            [
-                "cytologic",
-                0.02
-            ],
-            [
-                "analysis",
-                0.02
-            ],
-            [
-                "made",
-                0.02
-            ],
-            [
-                "cytology",
-                0.02
-            ],
-            [
-                "reliable",
-                0.02
-            ],
-            [
-                "test",
-                0.02
-            ],
-            [
-                "for",
-                0.02
-            ],
-            [
-                "distinguishing",
-                0.02
-            ],
-            [
-                "between",
-                0.02
-            ]
-        ],
-        [
-            [
-                "papillary",
-                0.04477611940298507
-            ],
-            [
-                "with",
-                0.04477611940298507
-            ],
-            [
-                "and",
-                0.04477611940298507
-            ],
-            [
-                "to",
-                0.04477611940298507
-            ],
-            [
-                "thyroid",
-                0.029850746268656716
-            ],
-            [
-                "have",
-                0.029850746268656716
-            ],
-            [
-                "an",
-                0.029850746268656716
-            ],
-            [
-                "prognosis",
-                0.029850746268656716
-            ],
-            [
-                "thyroidectomy",
-                0.029850746268656716
-            ],
-            [
-                "cancers",
-                0.014925373134328358
-            ],
-            [
-                "excellent",
-                0.014925373134328358
-            ],
-            [
-                "a",
-                0.014925373134328358
-            ],
-            [
-                "year",
-                0.014925373134328358
-            ],
-            [
-                "survival",
-                0.014925373134328358
-            ],
-            [
-                "rate",
-                0.014925373134328358
-            ],
-            [
-                "in",
-                0.014925373134328358
-            ],
-            [
-                "excess",
-                0.014925373134328358
-            ],
-            [
-                "of",
-                0.014925373134328358
-            ],
-            [
-                "patients",
-                0.014925373134328358
-            ],
-            [
-                "microcarcinomas",
-                0.014925373134328358
-            ],
-            [
-                "noninvasive",
-                0.014925373134328358
-            ],
-            [
-                "follicular",
-                0.014925373134328358
-            ],
-            [
-                "neoplasms",
-                0.014925373134328358
-            ],
-            [
-                "like",
-                0.014925373134328358
-            ],
-            [
-                "nuclear",
-                0.014925373134328358
-            ],
-            [
-                "features",
-                0.014925373134328358
-            ],
-            [
-                "outstanding",
-                0.014925373134328358
-            ],
-            [
-                "on",
-                0.014925373134328358
-            ],
-            [
-                "lobectomy",
-                0.014925373134328358
-            ],
-            [
-                "alone",
-                0.014925373134328358
-            ],
-            [
-                "they",
-                0.014925373134328358
-            ],
-            [
-                "typically",
-                0.014925373134328358
-            ],
-            [
-                "do",
-                0.014925373134328358
-            ],
-            [
-                "not",
-                0.014925373134328358
-            ],
-            [
-                "require",
-                0.014925373134328358
-            ],
-            [
-                "total",
-                0.014925373134328358
-            ],
-            [
-                "this",
-                0.014925373134328358
-            ],
-            [
-                "has",
-                0.014925373134328358
-            ],
-            [
-                "become",
-                0.014925373134328358
-            ],
-            [
-                "especially",
-                0.014925373134328358
-            ],
-            [
-                "important",
-                0.014925373134328358
-            ],
-            [
-                "since",
-                0.014925373134328358
-            ],
-            [
-                "may",
-                0.014925373134328358
-            ],
-            [
-                "lead",
-                0.014925373134328358
-            ],
-            [
-                "vocal",
-                0.014925373134328358
-            ],
-            [
-                "cord",
-                0.014925373134328358
-            ],
-            [
-                "palsy",
-                0.014925373134328358
-            ],
-            [
-                "due",
-                0.014925373134328358
-            ],
-            [
-                "injury",
-                0.014925373134328358
-            ],
-            [
-                "the",
-                0.014925373134328358
-            ],
-            [
-                "laryngeal",
-                0.014925373134328358
-            ],
-            [
-                "nerve",
-                0.014925373134328358
-            ],
-            [
-                "iatrogenic",
-                0.014925373134328358
-            ],
-            [
-                "hypoparathyroidism",
-                0.014925373134328358
-            ]
-        ],
-        [
-            [
-                "and",
-                0.06382978723404255
-            ],
-            [
-                "of",
-                0.06382978723404255
-            ],
-            [
-                "patients",
-                0.0425531914893617
-            ],
-            [
-                "have",
-                0.0425531914893617
-            ],
-            [
-                "distant",
-                0.0425531914893617
-            ],
-            [
-                "metastases",
-                0.0425531914893617
-            ],
-            [
-                "presence",
-                0.0425531914893617
-            ],
-            [
-                "between",
-                0.02127659574468085
-            ],
-            [
-                "with",
-                0.02127659574468085
-            ],
-            [
-                "more",
-                0.02127659574468085
-            ],
-            [
-                "typical",
-                0.02127659574468085
-            ],
-            [
-                "ptcs",
-                0.02127659574468085
-            ],
-            [
-                "local",
-                0.02127659574468085
-            ],
-            [
-                "or",
-                0.02127659574468085
-            ],
-            [
-                "regional",
-                0.02127659574468085
-            ],
-            [
-                "recurrences",
-                0.02127659574468085
-            ],
-            [
-                "to",
-                0.02127659574468085
-            ],
-            [
-                "the",
-                0.02127659574468085
-            ],
-            [
-                "prognosis",
-                0.02127659574468085
-            ],
-            [
-                "is",
-                0.02127659574468085
-            ],
-            [
-                "dependent",
-                0.02127659574468085
-            ],
-            [
-                "on",
-                0.02127659574468085
-            ],
-            [
-                "several",
-                0.02127659574468085
-            ],
-            [
-                "factors",
-                0.02127659574468085
-            ],
-            [
-                "including",
-                0.02127659574468085
-            ],
-            [
-                "age",
-                0.02127659574468085
-            ],
-            [
-                "in",
-                0.02127659574468085
-            ],
-            [
-                "general",
-                0.02127659574468085
-            ],
-            [
-                "being",
-                0.02127659574468085
-            ],
-            [
-                "less",
-                0.02127659574468085
-            ],
-            [
-                "favorable",
-                0.02127659574468085
-            ],
-            [
-                "among",
-                0.02127659574468085
-            ],
-            [
-                "older",
-                0.02127659574468085
-            ],
-            [
-                "than",
-                0.02127659574468085
-            ],
-            [
-                "years",
-                0.02127659574468085
-            ],
-            [
-                "extrathyroidal",
-                0.02127659574468085
-            ],
-            [
-                "extension",
-                0.02127659574468085
-            ],
-            [
-                "stage",
-                0.02127659574468085
-            ]
-        ]
+    "paragraphs": [
+        {
+            "text": "Papillary carcinomas are the most common form of thyroid cancer, accounting for nearly 85% of cases in the United States. They occur throughout life but most often between 25 and 50 years of age, and account for the majority of thyroid carcinomas associated with previous exposure to ionizing radiation. The incidence of papillary carcinoma has increased markedly in the last 30 years, partly because of the rise in detection of papillary microcarcinomas and noninvasive encapsulated variants found incidentally during neck examination",
+            "stats": {
+                "papillary": 0.03896103896103896,
+                "carcinomas": 0.025974025974025976,
+                "are": 0.012987012987012988,
+                "the": 0.07792207792207792,
+                "most": 0.025974025974025976,
+                "common": 0.012987012987012988,
+                "form": 0.012987012987012988,
+                "of": 0.09090909090909091,
+                "thyroid": 0.025974025974025976,
+                "cancer": 0.012987012987012988,
+                "accounting": 0.012987012987012988,
+                "for": 0.025974025974025976,
+                "nearly": 0.012987012987012988,
+                "cases": 0.012987012987012988,
+                "in": 0.03896103896103896,
+                "united": 0.012987012987012988,
+                "states": 0.012987012987012988,
+                "they": 0.012987012987012988,
+                "occur": 0.012987012987012988,
+                "throughout": 0.012987012987012988,
+                "life": 0.012987012987012988,
+                "but": 0.012987012987012988,
+                "often": 0.012987012987012988,
+                "between": 0.012987012987012988,
+                "and": 0.03896103896103896,
+                "years": 0.025974025974025976,
+                "age": 0.012987012987012988,
+                "account": 0.012987012987012988,
+                "majority": 0.012987012987012988,
+                "associated": 0.012987012987012988,
+                "with": 0.012987012987012988,
+                "previous": 0.012987012987012988,
+                "exposure": 0.012987012987012988,
+                "to": 0.012987012987012988,
+                "ionizing": 0.012987012987012988,
+                "radiation": 0.012987012987012988,
+                "incidence": 0.012987012987012988,
+                "carcinoma": 0.012987012987012988,
+                "has": 0.012987012987012988,
+                "increased": 0.012987012987012988,
+                "markedly": 0.012987012987012988,
+                "last": 0.012987012987012988,
+                "partly": 0.012987012987012988,
+                "because": 0.012987012987012988,
+                "rise": 0.012987012987012988,
+                "detection": 0.012987012987012988,
+                "microcarcinomas": 0.012987012987012988,
+                "noninvasive": 0.012987012987012988,
+                "encapsulated": 0.012987012987012988,
+                "variants": 0.012987012987012988,
+                "found": 0.012987012987012988,
+                "incidentally": 0.012987012987012988,
+                "during": 0.012987012987012988,
+                "neck": 0.012987012987012988,
+                "examination": 0.012987012987012988
+            }
+        },
+        {
+            "text": "MORPHOLOGY\nConventional papillary carcinomas may be solitary or multifocal. Some tumors are well circumscribed, while others infiltrate the adjacent parenchyma and have ill-defined margins. The tumors may contain areas of fibrosis and calcification and are often cystic. The cut surface sometimes reveals papillary foci that point to the diagnosis. Papillary microcarcinoma is defined as an otherwise conventional papillary carcinoma, but less than 1 cm in size. As stated earlier, they are considered putative precursor lesions of more typical papillary carcinomas.",
+            "stats": {
+                "morphology": 0.0125,
+                "conventional": 0.025,
+                "papillary": 0.0625,
+                "carcinomas": 0.025,
+                "may": 0.025,
+                "be": 0.0125,
+                "solitary": 0.0125,
+                "or": 0.0125,
+                "multifocal": 0.0125,
+                "some": 0.0125,
+                "tumors": 0.025,
+                "are": 0.0375,
+                "well": 0.0125,
+                "circumscribed": 0.0125,
+                "while": 0.0125,
+                "others": 0.0125,
+                "infiltrate": 0.0125,
+                "the": 0.05,
+                "adjacent": 0.0125,
+                "parenchyma": 0.0125,
+                "and": 0.0375,
+                "have": 0.0125,
+                "ill": 0.0125,
+                "defined": 0.025,
+                "margins": 0.0125,
+                "contain": 0.0125,
+                "areas": 0.0125,
+                "of": 0.025,
+                "fibrosis": 0.0125,
+                "calcification": 0.0125,
+                "often": 0.0125,
+                "cystic": 0.0125,
+                "cut": 0.0125,
+                "surface": 0.0125,
+                "sometimes": 0.0125,
+                "reveals": 0.0125,
+                "foci": 0.0125,
+                "that": 0.0125,
+                "point": 0.0125,
+                "to": 0.0125,
+                "diagnosis": 0.0125,
+                "microcarcinoma": 0.0125,
+                "is": 0.0125,
+                "as": 0.025,
+                "an": 0.0125,
+                "otherwise": 0.0125,
+                "carcinoma": 0.0125,
+                "but": 0.0125,
+                "less": 0.0125,
+                "than": 0.0125,
+                "cm": 0.0125,
+                "in": 0.0125,
+                "size": 0.0125,
+                "stated": 0.0125,
+                "earlier": 0.0125,
+                "they": 0.0125,
+                "considered": 0.0125,
+                "putative": 0.0125,
+                "precursor": 0.0125,
+                "lesions": 0.0125,
+                "more": 0.0125,
+                "typical": 0.0125
+            }
+        },
+        {
+            "text": "The microscopic hallmarks of papillary neoplasms include the following (Fig. 24.19):\n• Branching papillae having a fibrovascular stalk covered by a single to multiple layers of cuboidal epithelial cells. In most neoplasms, the epithelium covering the papillae consists of well-differentiated, uniform, orderly cuboidal cells, but at the other extreme are those with fairly anaplastic epithelium showing considerable variation in cell and nuclear morphology. When present, the papillae differ from those seen in areas of hyperplasia in being more complex and having dense fibrovascular cores.\n• Nuclei with finely dispersed chromatin and an optically clear or empty appearance, giving rise to the designation ground-glass or Orphan Annie eye nuclei. In addition, invaginations of the nuclear membrane may give the appearance of nuclear inclusions (“pseudo-inclusions”) or grooves. The diagnosis of papillary carcinoma can be made based on these nuclear features, even in the absence of papillary architecture.\n• Concentrically calcified structures termed psammoma bodies are often present, usually within the cores of papillae. These structures are almost never found in follicular and medullary carcinomas, and they are a strong indication that the lesion is a papillary carcinoma when present in fine-needle aspiration material.\n• Foci of lymphatic invasion by tumor are often present, but involvement of blood vessels is uncommon, particularly in smaller lesions. Metastases to adjacent cervical lymph nodes occur in up to one-half of cases.",
+            "stats": {
+                "the": 0.057777777777777775,
+                "microscopic": 0.0044444444444444444,
+                "hallmarks": 0.0044444444444444444,
+                "of": 0.05333333333333334,
+                "papillary": 0.017777777777777778,
+                "neoplasms": 0.008888888888888889,
+                "include": 0.0044444444444444444,
+                "following": 0.0044444444444444444,
+                "fig": 0.0044444444444444444,
+                "branching": 0.0044444444444444444,
+                "papillae": 0.017777777777777778,
+                "having": 0.008888888888888889,
+                "a": 0.017777777777777778,
+                "fibrovascular": 0.008888888888888889,
+                "stalk": 0.0044444444444444444,
+                "covered": 0.0044444444444444444,
+                "by": 0.008888888888888889,
+                "single": 0.0044444444444444444,
+                "to": 0.017777777777777778,
+                "multiple": 0.0044444444444444444,
+                "layers": 0.0044444444444444444,
+                "cuboidal": 0.008888888888888889,
+                "epithelial": 0.0044444444444444444,
+                "cells": 0.008888888888888889,
+                "in": 0.044444444444444446,
+                "most": 0.0044444444444444444,
+                "epithelium": 0.008888888888888889,
+                "covering": 0.0044444444444444444,
+                "consists": 0.0044444444444444444,
+                "well": 0.0044444444444444444,
+                "differentiated": 0.0044444444444444444,
+                "uniform": 0.0044444444444444444,
+                "orderly": 0.0044444444444444444,
+                "but": 0.008888888888888889,
+                "at": 0.0044444444444444444,
+                "other": 0.0044444444444444444,
+                "extreme": 0.0044444444444444444,
+                "are": 0.022222222222222223,
+                "those": 0.008888888888888889,
+                "with": 0.008888888888888889,
+                "fairly": 0.0044444444444444444,
+                "anaplastic": 0.0044444444444444444,
+                "showing": 0.0044444444444444444,
+                "considerable": 0.0044444444444444444,
+                "variation": 0.0044444444444444444,
+                "cell": 0.0044444444444444444,
+                "and": 0.022222222222222223,
+                "nuclear": 0.017777777777777778,
+                "morphology": 0.0044444444444444444,
+                "when": 0.008888888888888889,
+                "present": 0.017777777777777778,
+                "differ": 0.0044444444444444444,
+                "from": 0.0044444444444444444,
+                "seen": 0.0044444444444444444,
+                "areas": 0.0044444444444444444,
+                "hyperplasia": 0.0044444444444444444,
+                "being": 0.0044444444444444444,
+                "more": 0.0044444444444444444,
+                "complex": 0.0044444444444444444,
+                "dense": 0.0044444444444444444,
+                "cores": 0.008888888888888889,
+                "nuclei": 0.008888888888888889,
+                "finely": 0.0044444444444444444,
+                "dispersed": 0.0044444444444444444,
+                "chromatin": 0.0044444444444444444,
+                "an": 0.0044444444444444444,
+                "optically": 0.0044444444444444444,
+                "clear": 0.0044444444444444444,
+                "or": 0.013333333333333334,
+                "empty": 0.0044444444444444444,
+                "appearance": 0.008888888888888889,
+                "giving": 0.0044444444444444444,
+                "rise": 0.0044444444444444444,
+                "designation": 0.0044444444444444444,
+                "ground": 0.0044444444444444444,
+                "glass": 0.0044444444444444444,
+                "orphan": 0.0044444444444444444,
+                "annie": 0.0044444444444444444,
+                "eye": 0.0044444444444444444,
+                "addition": 0.0044444444444444444,
+                "invaginations": 0.0044444444444444444,
+                "membrane": 0.0044444444444444444,
+                "may": 0.0044444444444444444,
+                "give": 0.0044444444444444444,
+                "inclusions": 0.008888888888888889,
+                "pseudo": 0.0044444444444444444,
+                "grooves": 0.0044444444444444444,
+                "diagnosis": 0.0044444444444444444,
+                "carcinoma": 0.008888888888888889,
+                "can": 0.0044444444444444444,
+                "be": 0.0044444444444444444,
+                "made": 0.0044444444444444444,
+                "based": 0.0044444444444444444,
+                "on": 0.0044444444444444444,
+                "these": 0.008888888888888889,
+                "features": 0.0044444444444444444,
+                "even": 0.0044444444444444444,
+                "absence": 0.0044444444444444444,
+                "architecture": 0.0044444444444444444,
+                "concentrically": 0.0044444444444444444,
+                "calcified": 0.0044444444444444444,
+                "structures": 0.008888888888888889,
+                "termed": 0.0044444444444444444,
+                "psammoma": 0.0044444444444444444,
+                "bodies": 0.0044444444444444444,
+                "often": 0.008888888888888889,
+                "usually": 0.0044444444444444444,
+                "within": 0.0044444444444444444,
+                "almost": 0.0044444444444444444,
+                "never": 0.0044444444444444444,
+                "found": 0.0044444444444444444,
+                "follicular": 0.0044444444444444444,
+                "medullary": 0.0044444444444444444,
+                "carcinomas": 0.0044444444444444444,
+                "they": 0.0044444444444444444,
+                "strong": 0.0044444444444444444,
+                "indication": 0.0044444444444444444,
+                "that": 0.0044444444444444444,
+                "lesion": 0.0044444444444444444,
+                "is": 0.008888888888888889,
+                "fine": 0.0044444444444444444,
+                "needle": 0.0044444444444444444,
+                "aspiration": 0.0044444444444444444,
+                "material": 0.0044444444444444444,
+                "foci": 0.0044444444444444444,
+                "lymphatic": 0.0044444444444444444,
+                "invasion": 0.0044444444444444444,
+                "tumor": 0.0044444444444444444,
+                "involvement": 0.0044444444444444444,
+                "blood": 0.0044444444444444444,
+                "vessels": 0.0044444444444444444,
+                "uncommon": 0.0044444444444444444,
+                "particularly": 0.0044444444444444444,
+                "smaller": 0.0044444444444444444,
+                "lesions": 0.0044444444444444444,
+                "metastases": 0.0044444444444444444,
+                "adjacent": 0.0044444444444444444,
+                "cervical": 0.0044444444444444444,
+                "lymph": 0.0044444444444444444,
+                "nodes": 0.0044444444444444444,
+                "occur": 0.0044444444444444444,
+                "up": 0.0044444444444444444,
+                "one": 0.0044444444444444444,
+                "half": 0.0044444444444444444,
+                "cases": 0.0044444444444444444
+            }
+        },
+        {
+            "text": "There are over a dozen histologic variants of papillary carcinoma that can mimic other thyroid lesions or harbor distinct prognostic implications; most are beyond the scope of this book. The tall cell variant has tall columnar cells with intensely eosinophilic cytoplasm. These tumors tend to occur in older individuals and have higher frequencies of vascular invasion, extrathyroidal extension, and cervical and distant metastases than conventional PTC. Tall cell variant papillary carcinomas almost always harbor BRAF mutations, and often have RET/PTC translocations as well. The co-occurrence of these two aberrations may contribute to the aggressive behavior of this variant.",
+            "stats": {
+                "there": 0.01,
+                "are": 0.02,
+                "over": 0.01,
+                "a": 0.01,
+                "dozen": 0.01,
+                "histologic": 0.01,
+                "variants": 0.01,
+                "of": 0.05,
+                "papillary": 0.02,
+                "carcinoma": 0.01,
+                "that": 0.01,
+                "can": 0.01,
+                "mimic": 0.01,
+                "other": 0.01,
+                "thyroid": 0.01,
+                "lesions": 0.01,
+                "or": 0.01,
+                "harbor": 0.02,
+                "distinct": 0.01,
+                "prognostic": 0.01,
+                "implications": 0.01,
+                "most": 0.01,
+                "beyond": 0.01,
+                "the": 0.04,
+                "scope": 0.01,
+                "this": 0.02,
+                "book": 0.01,
+                "tall": 0.03,
+                "cell": 0.02,
+                "variant": 0.03,
+                "has": 0.01,
+                "columnar": 0.01,
+                "cells": 0.01,
+                "with": 0.01,
+                "intensely": 0.01,
+                "eosinophilic": 0.01,
+                "cytoplasm": 0.01,
+                "these": 0.02,
+                "tumors": 0.01,
+                "tend": 0.01,
+                "to": 0.02,
+                "occur": 0.01,
+                "in": 0.01,
+                "older": 0.01,
+                "individuals": 0.01,
+                "and": 0.04,
+                "have": 0.02,
+                "higher": 0.01,
+                "frequencies": 0.01,
+                "vascular": 0.01,
+                "invasion": 0.01,
+                "extrathyroidal": 0.01,
+                "extension": 0.01,
+                "cervical": 0.01,
+                "distant": 0.01,
+                "metastases": 0.01,
+                "than": 0.01,
+                "conventional": 0.01,
+                "ptc": 0.02,
+                "carcinomas": 0.01,
+                "almost": 0.01,
+                "always": 0.01,
+                "braf": 0.01,
+                "mutations": 0.01,
+                "often": 0.01,
+                "ret": 0.01,
+                "translocations": 0.01,
+                "as": 0.01,
+                "well": 0.01,
+                "co": 0.01,
+                "occurrence": 0.01,
+                "two": 0.01,
+                "aberrations": 0.01,
+                "may": 0.01,
+                "contribute": 0.01,
+                "aggressive": 0.01,
+                "behavior": 0.01
+            }
+        },
+        {
+            "text": "An unusual diffuse sclerosing variant of papillary carcinoma occurs in younger individuals, including children. The tumor has a prominent papillary growth pattern intermixed with solid areas containing nests of squamous metaplasia. As the name suggests, there is extensive, diffuse fibrosis throughout the thyroid gland, often associated with a prominent lymphocytic infiltrate, simulating Hashimoto thyroiditis. Lymph node metastases are present in almost all cases. The diffuse sclerosing variant carcinomas lack BRAF mutations, but RET/PTC translocations are found in approximately one-half of cases.",
+            "stats": {
+                "an": 0.012048192771084338,
+                "unusual": 0.012048192771084338,
+                "diffuse": 0.03614457831325301,
+                "sclerosing": 0.024096385542168676,
+                "variant": 0.024096385542168676,
+                "of": 0.03614457831325301,
+                "papillary": 0.024096385542168676,
+                "carcinoma": 0.012048192771084338,
+                "occurs": 0.012048192771084338,
+                "in": 0.03614457831325301,
+                "younger": 0.012048192771084338,
+                "individuals": 0.012048192771084338,
+                "including": 0.012048192771084338,
+                "children": 0.012048192771084338,
+                "the": 0.04819277108433735,
+                "tumor": 0.012048192771084338,
+                "has": 0.012048192771084338,
+                "a": 0.024096385542168676,
+                "prominent": 0.024096385542168676,
+                "growth": 0.012048192771084338,
+                "pattern": 0.012048192771084338,
+                "intermixed": 0.012048192771084338,
+                "with": 0.024096385542168676,
+                "solid": 0.012048192771084338,
+                "areas": 0.012048192771084338,
+                "containing": 0.012048192771084338,
+                "nests": 0.012048192771084338,
+                "squamous": 0.012048192771084338,
+                "metaplasia": 0.012048192771084338,
+                "as": 0.012048192771084338,
+                "name": 0.012048192771084338,
+                "suggests": 0.012048192771084338,
+                "there": 0.012048192771084338,
+                "is": 0.012048192771084338,
+                "extensive": 0.012048192771084338,
+                "fibrosis": 0.012048192771084338,
+                "throughout": 0.012048192771084338,
+                "thyroid": 0.012048192771084338,
+                "gland": 0.012048192771084338,
+                "often": 0.012048192771084338,
+                "associated": 0.012048192771084338,
+                "lymphocytic": 0.012048192771084338,
+                "infiltrate": 0.012048192771084338,
+                "simulating": 0.012048192771084338,
+                "hashimoto": 0.012048192771084338,
+                "thyroiditis": 0.012048192771084338,
+                "lymph": 0.012048192771084338,
+                "node": 0.012048192771084338,
+                "metastases": 0.012048192771084338,
+                "are": 0.024096385542168676,
+                "present": 0.012048192771084338,
+                "almost": 0.012048192771084338,
+                "all": 0.012048192771084338,
+                "cases": 0.024096385542168676,
+                "carcinomas": 0.012048192771084338,
+                "lack": 0.012048192771084338,
+                "braf": 0.012048192771084338,
+                "mutations": 0.012048192771084338,
+                "but": 0.012048192771084338,
+                "ret": 0.012048192771084338,
+                "ptc": 0.012048192771084338,
+                "translocations": 0.012048192771084338,
+                "found": 0.012048192771084338,
+                "approximately": 0.012048192771084338,
+                "one": 0.012048192771084338,
+                "half": 0.012048192771084338
+            }
+        },
+        {
+            "text": "The follicular variant of PTC has the characteristic nuclear\nfeatures of papillary carcinoma and an almost totally follicular architecture. As mentioned earlier, genetic analyses have shown that encapsulated follicular variants of PTC harbor distinct molecular abnormalities from conventional PTCs. As already discussed, encapsulated follicular variants of papillary thyroid cancer without capsular invasion are designated noninvasive follicular thyroid carcinoma with papillary-like nuclear features and have a very low risk of recurrence or metastasis, whereas invasive tumors are referred to as invasive encapsulated follicular variant of papillary thyroid carcinoma.",
+            "stats": {
+                "the": 0.022727272727272728,
+                "follicular": 0.06818181818181818,
+                "variant": 0.022727272727272728,
+                "of": 0.06818181818181818,
+                "ptc": 0.022727272727272728,
+                "has": 0.011363636363636364,
+                "characteristic": 0.011363636363636364,
+                "nuclear": 0.022727272727272728,
+                "features": 0.022727272727272728,
+                "papillary": 0.045454545454545456,
+                "carcinoma": 0.03409090909090909,
+                "and": 0.022727272727272728,
+                "an": 0.011363636363636364,
+                "almost": 0.011363636363636364,
+                "totally": 0.011363636363636364,
+                "architecture": 0.011363636363636364,
+                "as": 0.03409090909090909,
+                "mentioned": 0.011363636363636364,
+                "earlier": 0.011363636363636364,
+                "genetic": 0.011363636363636364,
+                "analyses": 0.011363636363636364,
+                "have": 0.022727272727272728,
+                "shown": 0.011363636363636364,
+                "that": 0.011363636363636364,
+                "encapsulated": 0.03409090909090909,
+                "variants": 0.022727272727272728,
+                "harbor": 0.011363636363636364,
+                "distinct": 0.011363636363636364,
+                "molecular": 0.011363636363636364,
+                "abnormalities": 0.011363636363636364,
+                "from": 0.011363636363636364,
+                "conventional": 0.011363636363636364,
+                "ptcs": 0.011363636363636364,
+                "already": 0.011363636363636364,
+                "discussed": 0.011363636363636364,
+                "thyroid": 0.03409090909090909,
+                "cancer": 0.011363636363636364,
+                "without": 0.011363636363636364,
+                "capsular": 0.011363636363636364,
+                "invasion": 0.011363636363636364,
+                "are": 0.022727272727272728,
+                "designated": 0.011363636363636364,
+                "noninvasive": 0.011363636363636364,
+                "with": 0.011363636363636364,
+                "like": 0.011363636363636364,
+                "a": 0.011363636363636364,
+                "very": 0.011363636363636364,
+                "low": 0.011363636363636364,
+                "risk": 0.011363636363636364,
+                "recurrence": 0.011363636363636364,
+                "or": 0.011363636363636364,
+                "metastasis": 0.011363636363636364,
+                "whereas": 0.011363636363636364,
+                "invasive": 0.022727272727272728,
+                "tumors": 0.011363636363636364,
+                "referred": 0.011363636363636364,
+                "to": 0.011363636363636364
+            }
+        },
+        {
+            "text": "Clinical Features\nMost conventional papillary carcinomas present as asymptomatic thyroid nodules, but the first manifestation may be a mass in a cervical lymph node. Interestingly, the presence of isolated cervical nodal metastases does not have a significant impact on prognosis, which is generally good. Most carcinomas are single nodules that move freely with the thyroid gland during swallowing and are not distinguishable on examination from benign nodules. Hoarseness, dysphagia, cough, or dyspnea suggests advanced disease. In a minority of patients, hematogenous metastases are present at the time of diagnosis, most commonly in the lung.",
+            "stats": {
+                "clinical": 0.010638297872340425,
+                "features": 0.010638297872340425,
+                "most": 0.031914893617021274,
+                "conventional": 0.010638297872340425,
+                "papillary": 0.010638297872340425,
+                "carcinomas": 0.02127659574468085,
+                "present": 0.02127659574468085,
+                "as": 0.010638297872340425,
+                "asymptomatic": 0.010638297872340425,
+                "thyroid": 0.02127659574468085,
+                "nodules": 0.031914893617021274,
+                "but": 0.010638297872340425,
+                "the": 0.05319148936170213,
+                "first": 0.010638297872340425,
+                "manifestation": 0.010638297872340425,
+                "may": 0.010638297872340425,
+                "be": 0.010638297872340425,
+                "a": 0.0425531914893617,
+                "mass": 0.010638297872340425,
+                "in": 0.031914893617021274,
+                "cervical": 0.02127659574468085,
+                "lymph": 0.010638297872340425,
+                "node": 0.010638297872340425,
+                "interestingly": 0.010638297872340425,
+                "presence": 0.010638297872340425,
+                "of": 0.031914893617021274,
+                "isolated": 0.010638297872340425,
+                "nodal": 0.010638297872340425,
+                "metastases": 0.02127659574468085,
+                "does": 0.010638297872340425,
+                "not": 0.02127659574468085,
+                "have": 0.010638297872340425,
+                "significant": 0.010638297872340425,
+                "impact": 0.010638297872340425,
+                "on": 0.02127659574468085,
+                "prognosis": 0.010638297872340425,
+                "which": 0.010638297872340425,
+                "is": 0.010638297872340425,
+                "generally": 0.010638297872340425,
+                "good": 0.010638297872340425,
+                "are": 0.031914893617021274,
+                "single": 0.010638297872340425,
+                "that": 0.010638297872340425,
+                "move": 0.010638297872340425,
+                "freely": 0.010638297872340425,
+                "with": 0.010638297872340425,
+                "gland": 0.010638297872340425,
+                "during": 0.010638297872340425,
+                "swallowing": 0.010638297872340425,
+                "and": 0.010638297872340425,
+                "distinguishable": 0.010638297872340425,
+                "examination": 0.010638297872340425,
+                "from": 0.010638297872340425,
+                "benign": 0.010638297872340425,
+                "hoarseness": 0.010638297872340425,
+                "dysphagia": 0.010638297872340425,
+                "cough": 0.010638297872340425,
+                "or": 0.010638297872340425,
+                "dyspnea": 0.010638297872340425,
+                "suggests": 0.010638297872340425,
+                "advanced": 0.010638297872340425,
+                "disease": 0.010638297872340425,
+                "minority": 0.010638297872340425,
+                "patients": 0.010638297872340425,
+                "hematogenous": 0.010638297872340425,
+                "at": 0.010638297872340425,
+                "time": 0.010638297872340425,
+                "diagnosis": 0.010638297872340425,
+                "commonly": 0.010638297872340425,
+                "lung": 0.010638297872340425
+            }
+        },
+        {
+            "text": "A variety of diagnostic tests have been used to help separate benign from malignant thyroid nodules, including radionuclide scanning and fine-needle aspiration. Papillary carcinomas are cold masses on scintigraphy. Improvements in cytologic analysis have made fine-needle aspiration cytology a reliable test for distinguishing between benign and malignant nodules.",
+            "stats": {
+                "a": 0.04,
+                "variety": 0.02,
+                "of": 0.02,
+                "diagnostic": 0.02,
+                "tests": 0.02,
+                "have": 0.04,
+                "been": 0.02,
+                "used": 0.02,
+                "to": 0.02,
+                "help": 0.02,
+                "separate": 0.02,
+                "benign": 0.04,
+                "from": 0.02,
+                "malignant": 0.04,
+                "thyroid": 0.02,
+                "nodules": 0.04,
+                "including": 0.02,
+                "radionuclide": 0.02,
+                "scanning": 0.02,
+                "and": 0.04,
+                "fine": 0.04,
+                "needle": 0.04,
+                "aspiration": 0.04,
+                "papillary": 0.02,
+                "carcinomas": 0.02,
+                "are": 0.02,
+                "cold": 0.02,
+                "masses": 0.02,
+                "on": 0.02,
+                "scintigraphy": 0.02,
+                "improvements": 0.02,
+                "in": 0.02,
+                "cytologic": 0.02,
+                "analysis": 0.02,
+                "made": 0.02,
+                "cytology": 0.02,
+                "reliable": 0.02,
+                "test": 0.02,
+                "for": 0.02,
+                "distinguishing": 0.02,
+                "between": 0.02
+            }
+        },
+        {
+            "text": "Papillary thyroid cancers have an excellent prognosis, with a 10-year survival rate in excess of 95%. Patients with papillary microcarcinomas and noninvasive follicular thyroid neoplasms with papillary-like nuclear features have an outstanding prognosis on lobectomy alone, and they typically do not require total thyroidectomy. This has become especially important since thyroidectomy may lead to vocal cord palsy (due to injury to the laryngeal nerve) and iatrogenic hypoparathyroidism.",
+            "stats": {
+                "papillary": 0.04477611940298507,
+                "thyroid": 0.029850746268656716,
+                "cancers": 0.014925373134328358,
+                "have": 0.029850746268656716,
+                "an": 0.029850746268656716,
+                "excellent": 0.014925373134328358,
+                "prognosis": 0.029850746268656716,
+                "with": 0.04477611940298507,
+                "a": 0.014925373134328358,
+                "year": 0.014925373134328358,
+                "survival": 0.014925373134328358,
+                "rate": 0.014925373134328358,
+                "in": 0.014925373134328358,
+                "excess": 0.014925373134328358,
+                "of": 0.014925373134328358,
+                "patients": 0.014925373134328358,
+                "microcarcinomas": 0.014925373134328358,
+                "and": 0.04477611940298507,
+                "noninvasive": 0.014925373134328358,
+                "follicular": 0.014925373134328358,
+                "neoplasms": 0.014925373134328358,
+                "like": 0.014925373134328358,
+                "nuclear": 0.014925373134328358,
+                "features": 0.014925373134328358,
+                "outstanding": 0.014925373134328358,
+                "on": 0.014925373134328358,
+                "lobectomy": 0.014925373134328358,
+                "alone": 0.014925373134328358,
+                "they": 0.014925373134328358,
+                "typically": 0.014925373134328358,
+                "do": 0.014925373134328358,
+                "not": 0.014925373134328358,
+                "require": 0.014925373134328358,
+                "total": 0.014925373134328358,
+                "thyroidectomy": 0.029850746268656716,
+                "this": 0.014925373134328358,
+                "has": 0.014925373134328358,
+                "become": 0.014925373134328358,
+                "especially": 0.014925373134328358,
+                "important": 0.014925373134328358,
+                "since": 0.014925373134328358,
+                "may": 0.014925373134328358,
+                "lead": 0.014925373134328358,
+                "to": 0.04477611940298507,
+                "vocal": 0.014925373134328358,
+                "cord": 0.014925373134328358,
+                "palsy": 0.014925373134328358,
+                "due": 0.014925373134328358,
+                "injury": 0.014925373134328358,
+                "the": 0.014925373134328358,
+                "laryngeal": 0.014925373134328358,
+                "nerve": 0.014925373134328358,
+                "iatrogenic": 0.014925373134328358,
+                "hypoparathyroidism": 0.014925373134328358
+            }
+        },
+        {
+            "text": "Between 5% and 20% of patients with more typical PTCs have local or regional recurrences, and 10% to 15% have distant metastases. The prognosis is dependent on several factors including age (in general, being less favorable among patients older than 40 years), presence of extrathyroidal extension, and presence of distant metastases (stage).",
+            "stats": {
+                "between": 0.02127659574468085,
+                "and": 0.06382978723404255,
+                "of": 0.06382978723404255,
+                "patients": 0.0425531914893617,
+                "with": 0.02127659574468085,
+                "more": 0.02127659574468085,
+                "typical": 0.02127659574468085,
+                "ptcs": 0.02127659574468085,
+                "have": 0.0425531914893617,
+                "local": 0.02127659574468085,
+                "or": 0.02127659574468085,
+                "regional": 0.02127659574468085,
+                "recurrences": 0.02127659574468085,
+                "to": 0.02127659574468085,
+                "distant": 0.0425531914893617,
+                "metastases": 0.0425531914893617,
+                "the": 0.02127659574468085,
+                "prognosis": 0.02127659574468085,
+                "is": 0.02127659574468085,
+                "dependent": 0.02127659574468085,
+                "on": 0.02127659574468085,
+                "several": 0.02127659574468085,
+                "factors": 0.02127659574468085,
+                "including": 0.02127659574468085,
+                "age": 0.02127659574468085,
+                "in": 0.02127659574468085,
+                "general": 0.02127659574468085,
+                "being": 0.02127659574468085,
+                "less": 0.02127659574468085,
+                "favorable": 0.02127659574468085,
+                "among": 0.02127659574468085,
+                "older": 0.02127659574468085,
+                "than": 0.02127659574468085,
+                "years": 0.02127659574468085,
+                "presence": 0.0425531914893617,
+                "extrathyroidal": 0.02127659574468085,
+                "extension": 0.02127659574468085,
+                "stage": 0.02127659574468085
+            }
+        }
     ]
 }
