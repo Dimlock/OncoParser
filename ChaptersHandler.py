@@ -23,7 +23,7 @@ class ChaptersHandler:
         return counter
 
     def count_idf(self, term):
-        result = math.log(len(self.paragraphs) / self.count_term_df(term))
+        result = math.log(len(self.paragraphs) / self.count_term_df(term)) + 1
         return result
 
     def update_idf(self):
