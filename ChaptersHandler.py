@@ -32,6 +32,9 @@ class ChaptersHandler:
                 for stat in paragraph.stats:
                     paragraph.stats[stat].idf = self.count_idf(stat)
 
+
     def save(self):
         for i, chapter in enumerate(self.chapters):
+            chapter.save(i)
+            chapter.count_chapter_idfs()
             chapter.save(i)

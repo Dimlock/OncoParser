@@ -21,5 +21,5 @@ def countTermFrequency(paragraph):
     words_count = len(tokenized_paragraph)
     counted_terms = Counter(tokenized_paragraph)
     term_frequency = {k: ChapterClass.Stat(v/words_count) for k,v in counted_terms.items()}
-    return Counter(term_frequency)
+    return term_frequency
 
